@@ -1,4 +1,4 @@
-#### [Home](/), [Publications](content/publications), [CV](content/cv), [Material](content/material), [Research](content/research), [Contact](content/contact)
+### [Home](index), [Publications](content/publications), [CV](content/cv), [Material](content/material), [Research](content/research), [Contact](content/contact)
 
 <img src="images/emanuele-natale.jpg" width="200">
 
