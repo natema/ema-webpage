@@ -1,4 +1,4 @@
-## [Home](index), [Publications](content/publications), [CV](content/cv), [Material](content/material), [Research](content/research), [Contact](content/contact)
+## [Home](/ema-webpage/), [Publications](/ema-webpage/content/publications), [CV](/ema-webpage/content/cv), [Material](/ema-webpage/content/material), [Research](/ema-webpage/content/research), [Contact](/ema-webpage/content/contact)
 
 <img src="images/emanuele-natale.jpg" width="200">
 
