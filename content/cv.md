@@ -1,4 +1,4 @@
-## [Home](/ema-webpage/), [Publications](/ema-webpage/content/publications), [CV](/ema-webpage/content/cv), [Material](/ema-webpage/content/material), [Research](/ema-webpage/content/research), [Contact](/ema-webpage/content/contact)
+## [Home](/ema-webpage/) - [Publications](/ema-webpage/content/publications) - [CV](/ema-webpage/content/cv) - [Material](/ema-webpage/content/material) - [Research](/ema-webpage/content/research) - [Contact](/ema-webpage/content/contact)
 
 # Academic CV
 
