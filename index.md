@@ -1,12 +1,6 @@
-<!-- title: Home -->
+#### [Home](/), [Publications](content/publications), [CV](content/cv), [Material](content/material), [Research](content/research), [Contact](content/contact)
 
-<table border="0" align="right" cellpadding="30">
-    <tr>
-        <td>
-            <img src="images/emanuele-natale.jpg" width="200">
-        </td>
-    </tr>
-</table>
+<img src="images/emanuele-natale.jpg" width="200">
 
 *All things are possible,*  
 *perhaps nothing is certain,*  
