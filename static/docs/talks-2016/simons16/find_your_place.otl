@@ -1,0 +1,28 @@
+Sketch of presentation
+	Def of comm det problem as min bisect
+	let's study average case complexity
+	: min bisect is np-complete. sbm is a natural random model for
+	: understanding the average case
+	spectral techniques are efficient
+	: see the average matrix: second eigen indicate the partition
+	we need to concentrate on the average
+	: techniques of matrix perturbation and matrix concentration:
+	: - matrix chernoff (Harvey proof)
+	: - davis-kahan and eigenvalue perturbation bound by spectral norm
+	the bottleneck of mixing time
+	: if we want to learn the second eigen, then we have to 
+	: wait the mixing (check mc sherry)
+	we only care about the sign of the second
+	: can we detect *just the sign* faster?
+	The average dynamic
+	: a simple *linear* (i.e. can write as matrix multipl) that is 
+	: essentially computing the distribution of the random walk:
+	: converge faster inside the community than across them.
+	Analysis of the average
+	: Example on the spectra in the regular toy model: 
+	: relation between the eigens of the communities and the cut
+	: Look at the process using linear algebra:
+	: gap in convergence corresponds to se gap between second and third eigens
+	The average is faster than the mixing time
+	: if you look at the jumps of the value, you learn the positivity of
+	: the second eigen very soon!
