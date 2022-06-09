@@ -1,7 +1,5 @@
 <!-- title: Home -->
 
-# Ema's Website
-
 <table border="0" align="right" cellpadding="30">
     <tr>
         <td>
