@@ -49,19 +49,19 @@ comporta un punteggio aggiuntivo ai fini della valutazione finale.
 
 Introduzione alla ricerca sugli algoritmi naturali. 
 
-* [LO](https://www.libreoffice.org/discover/impress/) slides della lezione: [Lecture 0]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/00_course_intro/NDA_00_intro_final.odp), and the [exported pdf]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/00_course_intro/NDA_00_intro_final.pdf). 
+* [LO](https://www.libreoffice.org/discover/impress/) slides della lezione: [Lecture 0](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/00_course_intro/NDA_00_intro_final.odp), and the [exported pdf](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/00_course_intro/NDA_00_intro_final.pdf). 
 * Feinerman, Ofer, and Amos Korman. 2013. *Theoretical Distributed Computing Meets Biology: A Review.* In Distributed Computing and Internet Technology, edited by Chittaranjan Hota and Pradip K. Srimani, 1–18. LNCS 7753. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-642-36071-8_1.
 
 Il problema del Rumor Spreading in modelli di interazione stocastica in presenza di communication noise, motivato dal problema del reclutamento nella specie di formiche cataglyphis niger. 
 
-* [LO](https://www.libreoffice.org/discover/impress/) slides della lezione: [Lecture 1]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/01_recruitment_intro/NDA_01_intro_recruitment_final.odp), and the [exported pdf]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/01_recruitment_intro/NDA_01_intro_recruitment_final.pdf). 
+* [LO](https://www.libreoffice.org/discover/impress/) slides della lezione: [Lecture 1](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/01_recruitment_intro/NDA_01_intro_recruitment_final.odp), and the [exported pdf](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/01_recruitment_intro/NDA_01_intro_recruitment_final.pdf). 
 * Feinerman, Ofer, Bernhard Haeupler, and Amos Korman. 2017. “Breathe before Speaking: Efficient Information Dissemination despite Noisy, Limited and Anonymous Communication.” Distributed Computing 30 (5): 339–55. https://doi.org/10.1007/s00446-015-0249-4. 
 
 ### 11/11/2019 - Lezioni 2 e 3
 
 Continuazione della lezione precedente sui modelli di interazione stocastica in presenza di communication noise. 
 
-* [LO](https://www.libreoffice.org/discover/impress/) slides della lezione: [Lecture 2]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/02_recruitement_push/NDA_02_recruitment_push_final.odp) ([pdf esportato]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/02_recruitement_push/NDA_02_recruitment_push_final.pdf)) e [Lecture 3]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/03_recruitement_pull/NDA_03_recruitment_pull_final.odp) ([pdf esportato]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/03_recruitement_pull/NDA_03_recruitment_pull_final.pdf)). 
+* [LO](https://www.libreoffice.org/discover/impress/) slides della lezione: [Lecture 2](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/02_recruitement_push/NDA_02_recruitment_push_final.odp) ([pdf esportato](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/02_recruitement_push/NDA_02_recruitment_push_final.pdf)) e [Lecture 3](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/03_recruitement_pull/NDA_03_recruitment_pull_final.odp) ([pdf esportato](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/03_recruitement_pull/NDA_03_recruitment_pull_final.pdf)). 
 * Boczkowski, Lucas, Emanuele Natale, Ofer Feinerman, and Amos Korman. 2018. “Limits on Reliable Information Flows through Stochastic Populations.” PLOS Computational Biology 14 (6): e1006195. https://doi.org/10.1371/journal.pcbi.1006195. 
 * Clementi, Andrea, Luciano Gualà, Emanuele Natale, Francesco Pasquale, Giacomo Scornavacca, and Luca Trevisan. 2018. “Consensus Needs Broadcast in Noiseless Models but Can Be Exponentially Easier in the Presence of Noise.” Report. CNRS. https://hal.inria.fr/hal-01958994/document.
 
@@ -69,7 +69,7 @@ Continuazione della lezione precedente sui modelli di interazione stocastica in 
 
 Lezione tenuta dal Dott. Vincenzo Bonifaci, sul tema "Physarum polycephalum e il problema del cammino minimo". 
 
-* Slides della lezione: [pdf]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/04_physarum/2019_Bonifaci_physarum_NDA_Roma2.pdf).
+* Slides della lezione: [pdf](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/04_physarum/2019_Bonifaci_physarum_NDA_Roma2.pdf).
 
 Il seguente articolo costituisce una buona introduzione al tema:
 
@@ -81,7 +81,7 @@ Gli articoli del Dott. Bonifaci sono liberamente scaricabili dalla sua pagina we
 
 Una semplice soluzione al problema della stima della densità ispirata dalle formiche. 
 
-* Slides della lezione: [pdf]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/05_density_estimation/05_density_estimation_NDA_2019.pdf).
+* Slides della lezione: [pdf](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/05_density_estimation/05_density_estimation_NDA_2019.pdf).
 * Musco, Cameron, Hsin-Hao Su, and Nancy A. Lynch. 2017. “Ant-Inspired Density Estimation via Random Walks.” Proceedings of the National Academy of Sciences 114 (40): 10534–41. https://doi.org/10.1073/pnas.1706439114.
 
 ### 2/12/2019 - Lezione 6
@@ -95,7 +95,7 @@ La lezione sarà tenuta dal [Dott. Vito Trianni](http://laral.istc.cnr.it/triann
 
 Quanta memoria serve per risolvere il problema del Majority Consensus nel modello Population Protocols? (Parte della lezione è già stata discussa durante la lezione del 25/11/2019 e sarà brevemente richiamata.)
 
-* Slides della lezione 7: [pdf]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/06_plurality_consensus_in_population_protocols/06_plurality_consensus_in_population_protocols.pdf). 
+* Slides della lezione 7: [pdf](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/06_plurality_consensus_in_population_protocols/06_plurality_consensus_in_population_protocols.pdf). 
 * Mertzios, George B., Sotiris E. Nikoletseas, Christoforos L. Raptopoulos, and Paul G. Spirakis. 2016. “Determining Majority in Networks with Local Interactions and Very Small Local Memory.” Distributed Computing 30 (1): 1–16. https://doi.org/10.1007/s00446-016-0277-8. 
 * Salehkaleybar, S., A. Sharif-Nassab, and S.J. Golestani. 2015. “Distributed Voting/Ranking with Optimal Number of States per Node.” IEEE Transactions on Signal and Information Processing over Networks PP (99): 1–1. https://doi.org/10.1109/TSIPN.2015.2477777. 
 * Ramezani, Iliad, and Emanuele Natale. 2019. “On the Necessary Memory to Compute the Plurality in Multi-Agent Systems.” In CIAC’19 - 11th International Conference on Algorithms and Complexity. Rome, Italy. https://hal.archives-ouvertes.fr/hal-02002448. 
@@ -103,7 +103,7 @@ Quanta memoria serve per risolvere il problema del Majority Consensus nel modell
 Breve panoramica su aspetti algoritmici in neuroscienze. Il problema della
 sparsificazione distribuita di grafi expander. 
 
-* Slides della lezione 8: [pdf]({{ base_path }}/docs/talks-2019/NaturalAlgorithmsCourse19/07_brain_pruning/NDA_brain_pruning.pdf). 
+* Slides della lezione 8: [pdf](/ema-webpage/static/docs/talks-2019/NaturalAlgorithmsCourse19/07_brain_pruning/NDA_brain_pruning.pdf). 
 * Becchetti, Luca, Andrea Clementi, Emanuele Natale, Francesco Pasquale, and Luca Trevisan. 2019. “Finding a Bounded-Degree Expander Inside a Dense One.” In . https://hal.archives-ouvertes.fr/hal-02002377.
 
 ### 16/12/2019 - Lezione 

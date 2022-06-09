@@ -12,4 +12,3 @@ F-06902 Sophia Antipolis Cedex
 
 E-mail: $FIRSTNAME.$LASTNAME@inria.fr
 
-[My PGP key]({{base_path}}/keys/emanuele.natale@inria.fr-pgp.pub.asc)
