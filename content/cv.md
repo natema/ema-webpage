@@ -90,6 +90,10 @@ I am an associate editor of the [WikiJournal of Science](https://en.wikiversity.
 
 - Together with David Coudert, we are organizing [SEA 2021](https://sea2021.i3s.unice.fr/) in Nice.
 
+#### Steering Committee
+
+- Steering committee member of the [Symposium on Experimental Algorithms](https://en.wikipedia.org/wiki/Symposium_on_Experimental_Algorithms) (3-year service since 2022 as past-PC member).
+
 #### Program Committee
 
 - [AAAI'22](https://aaai.org/Conferences/AAAI-22/), 
