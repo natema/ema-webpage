@@ -2,15 +2,7 @@
 
 # Research Bio
 
-## 2022
-
-I'm interested in theoretical neuroscience. 
-I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and since then I've been working on algorithmic problems such as network alignment [[BrainAlign]], in order to investigate, through a comparative approach, how computation is organized in the brain [[AC]].
-I've also been working on pruning algorithms for artificial neural networks [[LTH]], with some hope to get insights on synaptic pruning and related phenomena in the brain. 
-
-More recently, I've been learning the [Julia programming language](https://julialang.org/) and I've become interested in the sub-area of scientific computing known as *Scientific Machine Learning*.  
-
-## Until 2021
+## (Mainly) TCS phase (2013-2018)
 
 Originally motivated by an interest in the theory of complex systems, my research has focused on computational dynamics [[CompDyn], [SurvDyn]], i.e., simple distributed
 probabilistic algorithms which allow multi-agent systems to solve global
@@ -29,6 +21,14 @@ In this respect, I have worked on the algorithmic analysis of the behavior of or
 Beside all that, I investigated some other distributed-computing problems [[RepBins], [MinMsg], [NoisCons], [ParLoad]], 
 enjoyed working on some algorithm engineering project [[Kadabra]], 
 and studied the complexity of certain combinatorial puzzles and games [[Candy], [PegS], [CoG]].
+
+## (Mainly) Neuroscience-ML phase (2018-2022)
+
+Over the last three years, I've been interested in theoretical neuroscience. 
+I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and since then I've been working on algorithmic problems such as network alignment [[BrainAlign]], in order to investigate, through a comparative approach, how computation is organized in the brain [[AC]].
+I've also been working on pruning algorithms for artificial neural networks [[LTH]], with some hope to get insights on synaptic pruning and related phenomena in the brain. 
+
+Since 2021, I've been learning the [Julia programming language](https://julialang.org/) and I've become interested in the sub-area of scientific computing known as *Scientific Machine Learning*. 
 
 # Code 
 
