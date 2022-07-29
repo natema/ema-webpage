@@ -23,7 +23,7 @@ In 2019, I've received the *Best Italian Young Researcher in Theoretical Compute
 
 I'm currently working on questions which fall at the interface between computational neuroscience and artificial neural networks. 
 More recently, I've been learning the [Julia programming language](https://julialang.org/) and I've become interested in the sub-area of scientific computing known as *Scientific Machine Learning*, with the goal of contributing to a more environmentally sustainable society through the means of computational modeling and simulation.
-[Here](content/misc.md) I  give a quick overview of my research. 
+[Here](content/research.md) I  give a quick overview of my research. 
 
 ## Current group members 
 
