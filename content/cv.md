@@ -35,7 +35,7 @@
 
 * _Abilitazione Scientifica Nazionale, settore 01/B1 Informatica, II Fascia_: I obtained the Italian qualification as associate professor in Informatics.
 
-### 2019
+### 2019Associate Editor
 
 * Best Italian Young Researcher in Theoretical Computer Science, awarded by the Italian Chapter of the [EATCS](http://eatcs.org/). 
 * [Prix d’excellence d’Université Côte d’Azur](http://univ-cotedazur.fr/events/prix-excellence-2019/fiches/natale-emanuele) 2019. 
@@ -84,7 +84,8 @@
 
 ### Editorial Service
 
-I am an associate editor of the [WikiJournal of Science](https://en.wikiversity.org/wiki/WikiJournal_of_Science).
+- Since 2020, I am an associate editor of the [WikiJournal of Science](https://en.wikiversity.org/wiki/WikiJournal_of_Science).
+- Together with David Coudert, I am an associate editor of the Journal of Experimental Algorithms for a special issue of [SEA 2021](https://sea2021.i3s.unice.fr/).
 
 ### Organization of Conferences
 
