@@ -104,6 +104,19 @@
 - [IJCAI-PRICAI'20](https://ijcai20.org/), 
 - [SPAA'19](https://spaa.acm.org/2019/call_for_papers.html). 
 
+### PhD School Member
+
+- External mender of [University of Rome Tor Vergata's PhD School in Data Science](https://datasciencephd.uniroma2.it/). 
+
+#### PhD Thesis Committee 
+
+- Member of the Brieuc Guinard's PhD jury.  
+  Date of defense: November 4th 2020.  
+  Institution: IRIF (Paris).  
+  Thesis title: *Intermittent Lévy Walks and applications to biological searches*. 
+
+- Member of the Stephan Friedrichs' PhD committee (academic assistant), defended on September 11th 2017 at Max Planck Institute for Informatics. Thesis title: *Metastability-Containing Circuits, Parallel Distance Problems, and Terrain Guarding*.  
+
 #### Organized Workshops 
 
 **Spring 2018** - I've been organizing the Brain-related Computing Interest Group's meetings in the The Brain and Computation Program of the [Simons Institute][SIMONS].
@@ -117,15 +130,6 @@ Conference reviews for STOC, SODA, PODC, ICALP, SPAA, Random Structures & Algori
 Journal reviews for Distributed Computing, PLOS One, JCSS, Computer Networks, Physics Letter A, ACM Transactions on Parallel Computing. 
 
 ### Other Activities
-
-#### PhD Thesis Committee 
-
-- Member of the Brieuc Guinard's PhD jury.  
-  Date of defense: November 4th 2020.  
-  Institution: IRIF (Paris).  
-  Thesis title: *Intermittent Lévy Walks and applications to biological searches*. 
-
-- Member of the Stephan Friedrichs' PhD committee (academic assistant), defended on September 11th 2017 at Max Planck Institute for Informatics. Thesis title: *Metastability-Containing Circuits, Parallel Distance Problems, and Terrain Guarding*.  
 
 #### Projects for Popularizing Science
 
