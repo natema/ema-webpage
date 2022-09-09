@@ -11,9 +11,10 @@
 
 ### PhD Students
 
-* [Arthur Carvalho Walraven Da Cunha]() (INRIA Sophia Antipolis), 2023-09 (expected). 
-* [Francesco D'Amore](https://sites.google.com/view/francesco-damore/home) (INRIA Sophia Antipolis), co-supervised with Nicolas Nisse, 2022-09 (expected). 
-* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/) (Gran Sasso Science Institute), co-supervised with G. D'Angelo and L. Becchetti, until 2019-12. 
+* [Aurora Rossi](https://aurorarossi.github.io/) (co-advisor), INRIA UCA, 2025-09 (expected). 
+* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/) (supervisor), INRIA UCA, 2023-09 (expected). 
+* [Francesco D'Amore](https://sites.google.com/view/francesco-damore/home) (co-advisor), INRIA UCA, co-supervised with Nicolas Nisse, 2022-10 (expected). 
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/) (co-advisor), Gran Sasso Science Institute, co-supervised with G. D'Angelo and L. Becchetti, until 2019-12. 
 
 ### Interns and undergraduate students
 
