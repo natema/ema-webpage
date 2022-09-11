@@ -27,7 +27,7 @@ More recently, I've been learning the [Julia programming language](https://julia
 
 ## Current group members
 
-* (Pierluigi Crescenzi)[https://www.pilucrescenzi.it/], visiting professor
+* [Pierluigi Crescenzi](https://www.pilucrescenzi.it/), visiting professor
 
 ### Postdocs
 
