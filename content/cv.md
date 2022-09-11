@@ -6,8 +6,8 @@
 
 ### Post-docs
 
+* [Damien Rivet](), Post-doc (BraInside project), COATI Team, 2022-07 — 2023-06. 
 * [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), I3S Post-doc fellowship, 2019-11 — 2020-10. 
-
 
 ### PhD Students
 
