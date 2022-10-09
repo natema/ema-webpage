@@ -3,7 +3,7 @@ Add here global page variables to use throughout your website.
 -->
 @def author = "Emanuele Natale"
 @def mintoclevel = 2
-@def prepath="ema-webpage"
+@def prepath=""
  
 @def ignore = ["node_modules/"]
 
