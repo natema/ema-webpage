@@ -1,0 +1,323 @@
+\documentclass{article}
+\usepackage[latin1]{inputenc}
+\usepackage{latexsym}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{ifpdf}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[includeheadfoot,a4paper,left=10mm,right=10mm,top=-8.3mm,bottom=26mm,%
+  headheight=43mm,headsep=12mm,footskip=10mm,]{geometry}
+\usepackage{fancyhdr}
+\ifpdf
+  \usepackage{pdftricks}
+\else
+  \usepackage{pstricks,pst-node}
+  \newcmykcolor{lightmpigreen}{0.25 0.0  1.0  0.2 }%
+  \newcmykcolor{darkmpigreen} {1.0  0.0  0.47 0.3 }%
+  \newcmykcolor{lightmpiblue} {0.3  0.15 0.0  0.0 }%
+  \newcmykcolor{darkmpiblue}  {1.0  0.6  0.1  0.55}%
+  \newcmykcolor{darkblue}     {0.8  0.8  0.0  0.15}%
+  \newcmykcolor{darkgreen}    {1.0  0.0  1.0  0.35}%
+  \newcmykcolor{darkred}      {0.0  1.0  1.0  0.3 }%
+  \newcmykcolor{blue}         {0.6  0.6  0.0  0.0 }%
+  \newcmykcolor{green}        {0.9  0.0  1.0  0.0 }%
+  \newcmykcolor{red}          {0.0  1.0  1.0  0.0 }%
+  \newcmykcolor{yellow}       {0.0  0.05 1.0  0.05}%
+  \newcmykcolor{lightblue}    {0.1  0.1  0.0  0.0 }%
+  \newcmykcolor{lightgreen}   {0.1  0.0  0.12 0.0 }%
+  \newcmykcolor{lightred}     {0.0  0.1  0.12 0.0 }%
+  \newcmykcolor{lightyellow}  {0.0  0.0  0.3  0.0 }%
+  \newcmykcolor{verylightgray}{0.0  0.0  0.0  0.1 }%
+\fi
+\newcommand{\lp}{\topsep1pt\itemsep0pt\leftmargin1em\parsep\parskip}
+\pagestyle{fancy}
+\makeatletter
+\newcommand{\lpp}{\topsep0.7ex\@plus0.3ex\@minus0.3ex \itemsep0pt\leftmargin1em\parsep\parskip}
+\renewcommand{\headrulewidth}{1pt}
+\def\headrule{\hspace*{-\ruleoverhang}%
+    \rule{\ruleoverhang}{\headrulewidth}%
+    \rule{\ruleoverhang}{\headrulewidth}%
+    \rule{\headwidth}{\headrulewidth}%
+    \hspace*{-\ruleoverhang} \vskip-\headrulewidth}
+\def\footrule{\vskip-\footruleskip\vskip-\footrulewidth
+    \vspace*{-\baselineskip}%
+    \hspace*{-\ruleoverhang}%
+    \rule{\ruleoverhang}{\headrulewidth}%
+    \rule{\ruleoverhang}{\headrulewidth}%
+    \rule{\headwidth}{\headrulewidth}%
+    \hspace*{-\ruleoverhang} \vspace*{-\baselineskip}%
+    \vskip\footruleskip}
+\makeatother
+\lfoot{}
+\cfoot{%
+  \vspace{3mm}
+  \includegraphics[height=13mm]{mpi-logo}\hspace{9mm}
+  \includegraphics[height=13mm]{logo_sapienza}\hspace{6mm}
+  \includegraphics[height=16mm]{logo-TorVergata}\hspace{6mm}
+  \includegraphics[height=11mm]{berkeley_logo}}
+\rfoot{}
+\lhead{}
+\chead{%
+  % \fontfamily{phv}\fontseries{m}\fontshape{n}\fontsize{25pt}{30pt}\selectfont
+  \mbox{\rule[-17mm]{0mm}{14mm}\smash{\begin{tabular}[c]{c}
+% ---------------------------------------------------
+% edit here
+      {\huge\strut\textbf{Friend or Foe?}}\\
+      {\huge\strut\textbf{\hspace{-4mm}Population Protocols can perform Community Detection}}\\[4mm]
+      {\large\strut L. Becchetti$^{1}$, A. Clementi$^{2}$,
+      \textbf{Emanuele Natale$^{0}$}, F. Pasquale$^{2}$, 
+      P. Raghavendra$^{3}$ and L. Trevisan$^{3}$}
+% ---------------------------------------------------
+% \vspace{2mm}
+  \end{tabular}}}}
+\rhead{}
+\renewcommand{\footrulewidth}{\headrulewidth}
+\newcommand{\ruleoverhang}{5mm}
+
+\frenchspacing
+\setlength\parindent{0pt}
+\setlength\parskip{0.7em}
+\renewcommand{\rmdefault}{phv}
+\renewcommand{\sfdefault}{phv}
+\renewcommand{\ttdefault}{pcr}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%%%%% Uncomment to get slanted sans-serif letters in math mode
+%%
+%% \DeclareMathAlphabet{\mathit}{OT1}{phv}{m}{sl}
+%% \DeclareMathAlphabet{\mathbf}{OT1}{phv}{bx}{n}
+%% \DeclareSymbolFont{sfletters}{OT1}{phv}{m}{sl}
+%% \DeclareSymbolFont{operators}{OT1}{phv}{m}{n}
+%% \DeclareSymbolFont{boldsymbols}{OMS}{cmsy}{b}{n}
+%%
+%% \DeclareMathSymbol{a}{\mathalpha}{sfletters}{`a}
+%% \DeclareMathSymbol{b}{\mathalpha}{sfletters}{`b}
+%% \DeclareMathSymbol{c}{\mathalpha}{sfletters}{`c}
+%% \DeclareMathSymbol{d}{\mathalpha}{sfletters}{`d}
+%% \DeclareMathSymbol{e}{\mathalpha}{sfletters}{`e}
+%% \DeclareMathSymbol{f}{\mathalpha}{sfletters}{`f}
+%% \DeclareMathSymbol{g}{\mathalpha}{sfletters}{`g}
+%% \DeclareMathSymbol{h}{\mathalpha}{sfletters}{`h}
+%% \DeclareMathSymbol{i}{\mathalpha}{sfletters}{`i}
+%% \DeclareMathSymbol{j}{\mathalpha}{sfletters}{`j}
+%% \DeclareMathSymbol{k}{\mathalpha}{sfletters}{`k}
+%% \DeclareMathSymbol{l}{\mathalpha}{sfletters}{`l}
+%% \DeclareMathSymbol{m}{\mathalpha}{sfletters}{`m}
+%% \DeclareMathSymbol{n}{\mathalpha}{sfletters}{`n}
+%% \DeclareMathSymbol{o}{\mathalpha}{sfletters}{`o}
+%% \DeclareMathSymbol{p}{\mathalpha}{sfletters}{`p}
+%% \DeclareMathSymbol{q}{\mathalpha}{sfletters}{`q}
+%% \DeclareMathSymbol{r}{\mathalpha}{sfletters}{`r}
+%% \DeclareMathSymbol{s}{\mathalpha}{sfletters}{`s}
+%% \DeclareMathSymbol{t}{\mathalpha}{sfletters}{`t}
+%% \DeclareMathSymbol{u}{\mathalpha}{sfletters}{`u}
+%% \DeclareMathSymbol{v}{\mathalpha}{sfletters}{`v}
+%% \DeclareMathSymbol{w}{\mathalpha}{sfletters}{`w}
+%% \DeclareMathSymbol{x}{\mathalpha}{sfletters}{`x}
+%% \DeclareMathSymbol{y}{\mathalpha}{sfletters}{`y}
+%% \DeclareMathSymbol{z}{\mathalpha}{sfletters}{`z}
+%%
+%% \DeclareMathSymbol{A}{\mathalpha}{sfletters}{`A}
+%% \DeclareMathSymbol{B}{\mathalpha}{sfletters}{`B}
+%% \DeclareMathSymbol{C}{\mathalpha}{sfletters}{`C}
+%% \DeclareMathSymbol{D}{\mathalpha}{sfletters}{`D}
+%% \DeclareMathSymbol{E}{\mathalpha}{sfletters}{`E}
+%% \DeclareMathSymbol{F}{\mathalpha}{sfletters}{`F}
+%% \DeclareMathSymbol{G}{\mathalpha}{sfletters}{`G}
+%% \DeclareMathSymbol{H}{\mathalpha}{sfletters}{`H}
+%% \DeclareMathSymbol{I}{\mathalpha}{sfletters}{`I}
+%% \DeclareMathSymbol{J}{\mathalpha}{sfletters}{`J}
+%% \DeclareMathSymbol{K}{\mathalpha}{sfletters}{`K}
+%% \DeclareMathSymbol{L}{\mathalpha}{sfletters}{`L}
+%% \DeclareMathSymbol{M}{\mathalpha}{sfletters}{`M}
+%% \DeclareMathSymbol{N}{\mathalpha}{sfletters}{`N}
+%% \DeclareMathSymbol{O}{\mathalpha}{sfletters}{`O}
+%% \DeclareMathSymbol{P}{\mathalpha}{sfletters}{`P}
+%% \DeclareMathSymbol{Q}{\mathalpha}{sfletters}{`Q}
+%% \DeclareMathSymbol{R}{\mathalpha}{sfletters}{`R}
+%% \DeclareMathSymbol{S}{\mathalpha}{sfletters}{`S}
+%% \DeclareMathSymbol{T}{\mathalpha}{sfletters}{`T}
+%% \DeclareMathSymbol{U}{\mathalpha}{sfletters}{`U}
+%% \DeclareMathSymbol{V}{\mathalpha}{sfletters}{`V}
+%% \DeclareMathSymbol{W}{\mathalpha}{sfletters}{`W}
+%% \DeclareMathSymbol{X}{\mathalpha}{sfletters}{`X}
+%% \DeclareMathSymbol{Y}{\mathalpha}{sfletters}{`Y}
+%% \DeclareMathSymbol{Z}{\mathalpha}{sfletters}{`Z}
+%%
+%% \DeclareMathSymbol{,}{\mathpunct}{operators}{`,}
+%% \DeclareMathSymbol{.}{\mathord}{operators}{`.}
+%% \DeclareMathSymbol{/}{\mathord}{operators}{`/}
+%% \DeclareMathSymbol{\mhyph}{\mathbin}{sfletters}{`-}
+%% \let\prime\relax
+%% \DeclareMathSymbol{\prime}{\mathord}{boldsymbols}{"30}
+%% \DeclareMathSymbol\forall  {\mathord}{boldsymbols}{"38}
+%% \DeclareMathSymbol\exists  {\mathord}{boldsymbols}{"39}
+%% \DeclareMathSymbol\neg     {\mathord}{boldsymbols}{"3A}
+%% \newcommand{\minus}{\mathbin{\mhyph\!\mhyph}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+
+\newcommand{\@clisti}{%
+  \leftmargin0.5\leftmargini
+  \topsep  0.7ex \@plus0.3ex \@minus0.3ex
+  \parsep  0.3ex \@plus0.1ex
+  \itemsep 0.2ex \@plus0.1ex \@minus0.1ex}
+\newcommand{\@clistii}{%
+  \leftmargin0.5\leftmarginii
+  \labelwidth0.5\leftmarginii
+  \advance\labelwidth-\labelsep
+  \topsep  0.4ex \@plus0.1ex \@minus0.1ex
+  \parsep  0.1ex \@plus0.1ex
+  \itemsep \parsep}
+\newcommand{\@clistiii}{%
+  \leftmargin0.5\leftmarginiii
+  \labelwidth0.5\leftmarginiii
+  \advance\labelwidth-\labelsep
+  \topsep    0.2ex \@plus0.1ex\@minus0.1ex
+  \parsep    0.0ex
+  \partopsep 0.1ex \@plus0ex \@minus0.1ex
+  \itemsep   \topsep}
+\newcommand{\@clistiv}{%
+  \leftmargin0.5\leftmarginiv
+  \labelwidth0.5\leftmarginiv
+  \advance\labelwidth-\labelsep}
+
+\newcommand{\ignore}[1]{}
+
+\newenvironment{citemize}%
+  {\def\@listi{\@clisti}
+   \def\@listii{\@clistii}
+   \def\@listiii{\@clistiii}
+   \def\@listiv{\@clistiv}
+   \begin{itemize}}%
+  {\end{itemize}}
+\newenvironment{ncitemize}%
+  {\def\@listi{\@nclisti}
+   \def\@listii{\@nclistii}
+   \def\@listiii{\@nclistiii}
+   \def\@listiv{\@nclistiv}
+   \begin{itemize}\let\makelabel\ignore}%
+  {\end{itemize}}
+\newenvironment{cenumerate}%
+  {\def\@listi{\@clisti}
+   \def\@listii{\@clistii}
+   \def\@listiii{\@clistiii}
+   \def\@listiv{\@clistiv}
+   \begin{enumerate}}%
+  {\end{enumerate}}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% THIS DOES NOT WORK WITH PDFLATEX!
+%%
+%% \posterbox{frc}{bgc}{content}
+%%
+%%   puts "content" into a box with rounded corners with frame color
+%%   "frc" and background color "bgc".
+%%
+%%   The dimensions of the box are determined by the content.
+%%
+%%   To get sharp corners instead of rounded corners, replace both
+%%   occurrences of "linearc=2mm" by "linearc=0mm".
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\long\def\posterbox#1#2#3{%
+  \psframebox[linecolor=#1,boxsep=true,framesep=3mm,cornersize=absolute,linearc=2mm]%
+  {\psframebox*[fillcolor=#2,boxsep=false,framesep=3mm,cornersize=absolute,linearc=2mm]%
+  {#3}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% THIS DOES NOT WORK WITH PDFLATEX!
+%%
+%% \posterboxhw{frc}{bgc}{h}{w}{content}
+%%
+%%   puts "content" into a box with rounded corners with frame color
+%%   "frc", background color "bgc", height "h", and width "w".
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\long\def\posterboxhw#1#2#3#4#5{%
+  % parameters for minipage environment:
+  %   top-aligned, height-2*framesep-2*linewidth,
+  %   content top-aligned, width-2*framesep-2*linewidth
+  %   If framesep or linewidth are changed, change here as well!
+  \posterbox{#1}{#2}{\begin{minipage}[t][#3-6mm-1.6pt][t]{#4-6mm-1.6pt}
+  #5
+  \end{minipage}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% THIS DOES NOT WORK WITH PDFLATEX!
+%%
+%% THIS DOES NOT WORK (NICELY) WITH ROUNDED CORNERS!
+%% If you want to use any of these commands, replace both occurrences of
+%% "linearc=2mm" in the definition of \posterbox above by "linearc=0mm"
+%% (sharp corners).
+%%
+%% \csection{bgc}{w}{heading}
+%%
+%%   makes a white section heading in a stripe colored with "bgc";
+%%   "w" should be the same width as for the surrounding \posterboxhw.
+%%
+%% \bigcsection{bgc}{w}{heading}
+%%
+%%   like \csection, but the stripe is larger, touching the surrounding
+%%   frame; "bgc" should preferably be the same color as the frame color
+%%   "frc" of the surrounding \posterboxhw.
+%%
+%% \csubsection{bgc}{w}{heading}
+%% \bigcsubsection{bgc}{w}{heading}
+%%
+%%   like \csection and \bigcsection, but using a smaller font size.
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\csection}[3]{
+  \addvspace{12mm}
+  \psframebox*[fillcolor=#1,boxsep=false,framesep=1.1mm,cornersize=absolute,linearc=0mm]{%
+  \begin{minipage}[t][5mm][t]{#2-6mm-1.6pt}\centering\section*{\fontsize{13}{15}\selectfont\vphantom{\"(}\white #3}
+  \end{minipage}}
+  \vspace{2mm}
+  \par}
+
+\newcommand{\csubsection}[3]{
+  \addvspace{8mm}
+  \psframebox*[fillcolor=#1,boxsep=false,framesep=1.1mm,cornersize=absolute,linearc=0mm]{%
+  \begin{minipage}[t][5mm][t]{#2-6mm-1.6pt}\centering\subsection*{\vphantom{\"(}\white #3}
+  \end{minipage}}
+  \vspace{1mm}
+  \par}
+
+\newcommand{\bigcsection}[3]{
+  \addvspace{12mm}
+  \psframebox*[fillcolor=#1,boxsep=false,framesep=3.0mm,cornersize=absolute,linearc=0mm]{%
+  \begin{minipage}[t][3mm][t]{#2-6mm-1.6pt}\subsection*{\fontsize{13}{15}\selectfont\vphantom{(}\white \smash{#3}}
+  \end{minipage}}
+  \vspace{1mm}
+  \par}
+
+\newcommand{\bigcsubsection}[3]{
+  \addvspace{12mm}
+  \psframebox*[fillcolor=#1,boxsep=false,framesep=3.0mm,cornersize=absolute,linearc=0mm]{%
+  \begin{minipage}[t][2mm][t]{#2-6mm-1.6pt}\subsection*{\vphantom{(}\white \smash{#3}}
+  \end{minipage}}
+  \vspace{1mm}
+  \par}
+
+\begin{document}
+% ---------------------------------------------------
+
+\begin{figure}[h]
+    \vspace{-9mm}
+    \hspace{-2mm}
+    \includegraphics[scale=1]{natale-emanuele}
+\end{figure}
+
+
+% ---------------------------------------------------
+\end{document}
