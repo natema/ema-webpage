@@ -1,25 +1,18 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-+++
-author = "Emanuele Natale"
-mintoclevel = 2
+@def author = "Emanuele Natale"
+@def mintoclevel = 2
+@def prepath="ema-webpage"
+ 
+@def ignore = ["node_modules/"]
 
-# Add here files or directories that should be ignored by Franklin, otherwise
-# these files might be copied and, if markdown, processed by Franklin which
-# you might not want. Indicate directories by ending the name with a `/`.
-# Base files such as LICENSE.md and README.md are ignored by default.
-ignore = ["node_modules/"]
+@def generate_rss = true
+@def website_title = "Ema webpage"
+@def website_descr = "Ema's personal webpage"
+@def website_url   = "https://natema.github.io"
 
-# RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = true
-website_title = "Ema webpage"
-website_descr = "Ema's personal webpage"
-website_url   = "https://natema.github.io"
-+++
 
 <!--
 Add here global latex commands to use throughout your pages.
 -->
-\newcommand{\R}{\mathbb R}
-\newcommand{\scal}[1]{\langle #1 \rangle}
