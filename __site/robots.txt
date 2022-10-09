@@ -1,4 +1,4 @@
-Sitemap: https://natema.github.io/ema-webpage/sitemap.xml
+Sitemap: https://natema.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
