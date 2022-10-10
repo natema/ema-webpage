@@ -8,7 +8,7 @@ tags = ["syntax", "code"]
 
 # Research Bio
 
-## (Mainly) TCS phase (2013-2018)
+## TCS phase (2013-2018)
 
 Originally motivated by an interest in the theory of complex systems, my research has focused on computational dynamics ([CompDyn], [SurvDyn]), i.e., simple distributed
 probabilistic algorithms which allow multi-agent systems to solve global
@@ -28,7 +28,7 @@ Beside all that, I investigated some other distributed-computing problems ([RepB
 enjoyed working on some algorithm engineering project ([Kadabra]), 
 and studied the complexity of certain combinatorial puzzles and games ([Candy], [PegS], [CoG]).
 
-## (Mainly) Neuroscience-ML phase (2018-2022)
+## Neuroscience-ML phase (2018-2022)
 
 Over the last three years, I've been interested in theoretical neuroscience. 
 I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and since then I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how computation is organized in the brain ([AC]).
