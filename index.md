@@ -32,24 +32,6 @@ I'm currently working on questions which fall at the interface between computati
 More recently, I've been learning the [Julia programming language](https://julialang.org/) and I've become interested in the sub-area of scientific computing known as *Scientific Machine Learning*, with the goal of contributing to a more environmentally sustainable society through the means of computational modeling and simulation.
 [Here](/research/) I  give a quick overview of my research. 
 
-## Current group members
-
-* [Pierluigi Crescenzi](https://www.pilucrescenzi.it/), visiting professor
-
-### Postdocs
-
-* Damien Rivet
-
-### PhD students
-
-* [Aurora Rossi](https://aurorarossi.github.io/) (co-advisor) 
-* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/) (supervisor) 
-* [Francesco D'Amore](https://sites.google.com/view/francesco-damore/home) (co-advisor) 
-
-### Research engineers
-
-* [Paulo Bruno Serafim](https://paulobruno.github.io/)
-
 
 [UCA]: http://univ-cotedazur.fr 
 [COATI]: https://team.inria.fr/coati/team-members 
