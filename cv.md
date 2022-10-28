@@ -103,6 +103,7 @@ tags = ["syntax", "code"]
 
 #### Program Committee
 
+- [AAAI'23](https://aaai.org/Conferences/AAAI-23/),
 - [AAAI'22](https://aaai.org/Conferences/AAAI-22/), 
 - [EURO-PAR'21](https://2021.euro-par.org/)
 - [SEA'21](https://sea2021.i3s.unice.fr/)
