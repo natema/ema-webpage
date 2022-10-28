@@ -35,13 +35,17 @@ tags = ["syntax", "code"]
 * Giacomo Scornavacca (Università degli Studi dell'Aquila, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017. 
 * Niko Kleer (HTW Saar, BSc student), at Max-Planck Institute for Informatics, Saarbrücken. Thesis: Self-Stabilizing Broadcast with 1 Bit. Defended in 2017. 
 
+# Patents 
+
+- Arthur Carvalho Walraven Da Cunha, Emanuele Natale, Laurent Viennot. _Résistance équivalente modulable à partir de résistances imprécises_. Patent deposit n°FR2210217, INRIA, 5 octobre 2022. 
+
 ## Awards, Grants etc.
 
 ### 2022
 
 * _Abilitazione Scientifica Nazionale, settore 01/B1 Informatica, II Fascia_: I obtained the Italian qualification as associate professor in Informatics.
 
-### 2019Associate Editor
+### 2019
 
 * Best Italian Young Researcher in Theoretical Computer Science, awarded by the Italian Chapter of the [EATCS](http://eatcs.org/). 
 * [Prix d’excellence d’Université Côte d’Azur](http://univ-cotedazur.fr/events/prix-excellence-2019/fiches/natale-emanuele) 2019. 
