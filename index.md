@@ -12,8 +12,8 @@
 >  *but some things are more likely than others.*  
 
 
-I am a [CNRS] researcher at ([Université
-Côte d’Azur][UCA], CNRS) based in Sophia Antipolis, and a member of the [COATI
+I am a [CNRS] researcher at [Université
+Côte d’Azur][UCA] based in Sophia Antipolis, and a member of the [COATI
 Project-Team][COATI] between [INRIA] and [I3S][I3S] .
 
 ~~~
