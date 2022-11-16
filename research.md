@@ -34,7 +34,7 @@ Over the last three years, I've been interested in theoretical neuroscience.
 I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and since then I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how computation is organized in the brain ([AC]).
 I've also been working on pruning algorithms for artificial neural networks ([LTH]), with some hope to get insights on synaptic pruning and related phenomena in the brain. 
 
-Since 2021, I've been learning the [Julia programming language](https://julialang.org/) and I've become interested in the sub-area of scientific computing known as *Scientific Machine Learning*. 
+Since 2021, I've become interested in the sub-area of scientific computing known as *Scientific Machine Learning*, in particular within the [Julia programming language](https://julialang.org/) ecosystem. 
 
 # Code 
 
