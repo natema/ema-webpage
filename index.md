@@ -29,7 +29,7 @@ In 2019, I've received the *Best Italian Young Researcher in Theoretical Compute
 ### Research
 
 I'm currently working on questions which fall at the interface between computational neuroscience and artificial neural networks,  
-and on developing an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl) with the goal of contributing to the [Sustainable Development Goals](https://sdg-tracker.org/) through the means of scientific computing.
+and on developing an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl).
 [Here](/research/) I  give a quick overview of my research. 
 
 
