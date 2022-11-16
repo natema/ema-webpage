@@ -42,14 +42,6 @@ You can find some of my code on [my Github page](https://github.com/natema).
 
 # Misc
 
-
-If you're on Twitter 
-
-- 
-  ~~~ <a href="https://twitter.com/emanatale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-  ~~~
-- Consider [switching to Mastodon](https://joinmastodon.org/).
-
 Here's 
 ~~~ 
 <a href="https://genealogy.math.ndsu.nodak.edu/id.php?id=238289">my Mathematics Genealogy Project page</a>.
