@@ -117,7 +117,7 @@ tags = ["syntax", "code"]
 
 ### PhD School Member
 
-- External mender of [University of Rome Tor Vergata's PhD School in Data Science](https://datasciencephd.uniroma2.it/). 
+- External member of [University of Rome Tor Vergata's PhD School in Data Science](https://datasciencephd.uniroma2.it/). 
 
 #### PhD Thesis Committee 
 
