@@ -10,7 +10,7 @@ tags = ["syntax", "code"]
 
 ## 2022
 
-* *Programmable Resistances from Inaccurate Resistors via Random Subset-Sum Theory*, INRIA-ARM meeting. [Slides](https://slides.com/natema/hw-ann-via-rss/fullscreen?token=mZtgCXlt)
+* *Programmable Resistances from Inaccurate Resistors via Random Subset-Sum Theory*, INRIA-ARM meeting. [Slides](https://slides.com/natema/hw-ann-via-rss/fullscreen?token=mZtgCXlt).
 
 ## 2021
 
