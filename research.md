@@ -8,6 +8,17 @@ tags = ["syntax", "code"]
 
 # Research Bio
 
+~~~
+<img src="../images/research_interests_diagram.svg" style="
+	margin-bottom: 30px;
+	border-radius:15%; 
+	float: right; 
+	width:770px;  
+	background-color: #0e6b0e;
+">
+~~~
+
+
 ## Neuroscience-ML phase (2018-2022)
 
 Over the last three years, I've been interested in theoretical neuroscience. 
