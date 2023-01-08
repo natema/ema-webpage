@@ -1,7 +1,7 @@
 using Luxor
 
 ##
-function timeline(s::String, linenum::Number, start::Number, stop::Number; abit=5, linespace=20, txtalign = (halign=:left, valign=:center), linesize = 700, until=linesize)
+function timeline(s::String, linenum::Number, start::Number, stringsize::Number; abit=5, linespace=20, txtalign = (halign=:left, valign=:center), timelinesize = 720, until=timelinesize)
 	@layer begin
 		setdash("dashed")
 		line(Point(0, linenum*linespace), Point(start, linenum*linespace); action=:stroke)
@@ -9,32 +9,54 @@ function timeline(s::String, linenum::Number, start::Number, stop::Number; abit=
 		sethue("green")
 		text(s, Point(start+abit, linenum*linespace + abit/2); txtalign...)
 		setdash("solid")
-		line(Point(stop, linenum*linespace), Point(until, linenum*linespace); action=:stroke)
+		line(Point(start+stringsize, linenum*linespace), Point(until, linenum*linespace); action=:stroke)
 		sethue("black")
 		setdash("dashed")
-		line(Point(until, linenum*linespace), Point(linesize, linenum*linespace); action=:stroke)
-		if until != linesize
+		line(Point(until, linenum*linespace), Point(timelinesize, linenum*linespace); action=:stroke)
+		if until != timelinesize
 			circle(Point(until, linenum*linespace)-Point(1,0), 4, action=:fill)
 		end
 	end
 end
 ##
 @svg begin
-	until = 700
+	timelinesize = 720
 	linespace=20
-	translate(-until/2,-28)
+	translate(-timelinesize/2,-28)
 	setline(3)
 	fontsize(13)
 
-	for y in 2013:2022
-		text(string(y), Point(until*(y-2013)/(2022-2013),-.8linespace), halign=:center)
+	lastyear = 2023
+	years = [
+		(
+			string=string(y), 
+			point=Point(timelinesize*(y-2013)/(2023-2013),-.8linespace)
+		) 
+		for y in 2013:lastyear
+	]
+	for y in years
+		text(y.string, y.point, halign=:center)
 	end
 
-	timeline("stochastic multiagent systems", 0, 0, 210, until=550)
-	timeline("biological distributed algorithms", 1, 80, 305, until=620)
-	timeline("computational neuroscience", 2, 300, 498)	
-	timeline("machine learning", 3, 330, 455)
-	timeline("integrated assessment modeling", 4, 455, 680)
+	topicstart = years[1].point[1]
+	stringsize = 210
+	until = years[8].point[1]
+	timeline("stochastic multiagent systems", 0, topicstart, stringsize; until, timelinesize)
+
+	topicstart = years[2].point[1]
+	stringsize = 223
+	until = years[9].point[1]
+	timeline("biological distributed algorithms", 1, topicstart, stringsize; until, timelinesize)
+	
+	topicstart = years[5].point[1]
+	stringsize = 197
+	timeline("computational neuroscience", 2, topicstart, stringsize; timelinesize)	
+	stringsize = 123
+	timeline("machine learning", 3, topicstart, stringsize; timelinesize)
+
+	topicstart = years[8].point[1]
+	stringsize = 212
+	timeline("integrated assessment models", 4, topicstart, stringsize; timelinesize)
 
 end 770 150 "research_interests_diagram"
 ##
