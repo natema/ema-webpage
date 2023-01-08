@@ -9,7 +9,7 @@ tags = ["syntax", "code"]
 # Research Bio
 
 ~~~
-<img src="../images/research_interests_diagram.svg" style="
+<img src="/images/research_interests_diagram.svg" style="
 	margin-bottom: 30px;
 	border-radius:15%; 
 	float: right; 
