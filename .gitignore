@@ -1,4 +1,4 @@
 __site/ema-webpage.code-workspace
 .vscode/settings.json
-*.svg
-__site/images/luxor/research_interests_diagram.jl
+__site/images/luxor/
+__site/**/research_interests_diagram.jl
