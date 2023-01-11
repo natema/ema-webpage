@@ -8,6 +8,10 @@ tags = ["syntax", "code"]
 
 # Talks
 
+## 2023
+
+* *On the Random Subset Sum Problem and Neural Networks*, Meeting with the HCERES evaluation committee. [Slides](https://slides.com/natema/hw-ann-via-rss-25824a/fullscreen?token=HXS0MaV2).
+
 ## 2022
 
 * *Programmable Resistances from Inaccurate Resistors via Random Subset-Sum Theory*, INRIA-ARM meeting. [Slides](https://slides.com/natema/hw-ann-via-rss/fullscreen?token=mZtgCXlt).
