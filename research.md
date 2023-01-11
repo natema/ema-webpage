@@ -21,11 +21,11 @@ tags = ["syntax", "code"]
 
 ## Neuroscience-ML phase (2018-2022)
 
-Over the last three years, I've been interested in theoretical neuroscience. 
-I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and since then I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how computation is organized in the brain ([AC]).
+Starting in 2018, I became interested in theoretical neuroscience. 
+I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how computation is organized in the brain ([AC]).
 I've also been working on pruning algorithms for artificial neural networks ([LTH]), with some hope to get insights on synaptic pruning and related phenomena in the brain. 
 
-Since 2021, I've become interested in the sub-area of scientific computing known as *Scientific Machine Learning*, in particular within the [Julia programming language](https://julialang.org/) ecosystem. 
+Starting in 2021, I've worked on an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl), with the goal of applying **scientific machine learning** for developing models related to the [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
 ## TCS phase (2013-2018)
 
