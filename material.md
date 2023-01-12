@@ -10,6 +10,7 @@ tags = ["syntax", "code"]
 
 ## 2023
 
+* *Présentation du langage Julia*, [Demi-journée Julia at Inria](https://project.inria.fr/jjinria/fr/).
 * *On the Random Subset Sum Problem and Neural Networks*, Meeting with the HCERES evaluation committee. [Slides](https://slides.com/natema/hw-ann-via-rss-25824a/fullscreen?token=HXS0MaV2).
 
 ## 2022
