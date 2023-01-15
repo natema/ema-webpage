@@ -137,7 +137,8 @@ tags = ["syntax", "code"]
 
 ### Reviewer Activity
 
-Conference reviews for STOC, SODA, PODC, ICALP, SPAA, Random Structures & Algorithms, DISC, IPDPS, ICDCS, OPODIS, EUROPAR, SIROCCO, CIAC.
+Conference reviews for 
+AAAI, AAMAS, CIAC, DISC, EURO-PAR, ICALP, ICDCS, IJCAI-PRICAI, IPDPS, OPODIS, PODC, RS&A, SEA, SIROCCO, SODA, SPAA, STOC, UAI.
 
 Journal reviews for Distributed Computing, PLOS One, JCSS, Computer Networks, Physics Letter A, ACM Transactions on Parallel Computing. 
 
