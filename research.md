@@ -19,7 +19,7 @@ tags = ["syntax", "code"]
 ~~~
 
 
-## Neuroscience-ML phase (2018-2022)
+## v2.0: Neuroscience and Machine Learning
 
 Starting in 2018, I became interested in theoretical neuroscience. 
 I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how computation is organized in the brain ([AC]).
@@ -27,7 +27,7 @@ I've also been working on pruning algorithms for artificial neural networks ([LT
 
 Starting in 2021, I've worked on an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl), with the goal of applying **scientific machine learning** for developing models related to the [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
-## TCS phase (2013-2018)
+## v1.0: Theoretical Computer Science
 
 Originally motivated by an interest in the theory of complex systems, my research has focused on computational dynamics ([CompDyn], [SurvDyn]), i.e., simple distributed
 probabilistic algorithms which allow multi-agent systems to solve global
