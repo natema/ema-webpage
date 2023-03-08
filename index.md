@@ -28,9 +28,8 @@ In 2019, I've received the *Best Italian Young Researcher in Theoretical Compute
 
 ### Research
 
-I'm currently working on questions which fall at the interface between computational neuroscience and artificial neural networks,  
-and on developing an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl).
-[Here](/research/) I  give a quick overview of my research. 
+I'm interested in machine learning and artificial intelligence, with a focus on theoretical questions about the role of communication in multi-agent systems and sparsity in artificial neural networks.
+I  give a quick overview of my research [here](/research/). 
 
 
 [UCA]: http://univ-cotedazur.fr 
