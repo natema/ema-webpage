@@ -18,16 +18,19 @@ tags = ["syntax", "code"]
 ">
 ~~~
 
+## v3.0: Machine Learning 
 
-## v2.0: Neuroscience and Machine Learning
+Starting in 2019, I've been working on the theory of sparsification of artificial neural networks ([LTH]), and on other problems in machine learning ([HID]).
 
-Starting in 2018, I became interested in theoretical neuroscience. 
-I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how computation is organized in the brain ([AC]).
-I've also been working on pruning algorithms for artificial neural networks ([LTH]), with some hope to get insights on synaptic pruning and related phenomena in the brain. 
+Starting in 2021, I've also been working on an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl), with the goal of applying **scientific machine learning** for developing models related to the [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
-Starting in 2021, I've worked on an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl), with the goal of applying **scientific machine learning** for developing models related to the [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
+## v2.0: Computational Neuroscience 
 
-## v1.0: Theoretical Computer Science
+From 2017 until 2022, I've been interested in theoretical and computational neuroscience. 
+I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how the central nervous system is organized. 
+I've also worked on the Assembly Calculus, a theoretical framework that explains the emergence of high-level cognition from the low-level behavior of neurons and synapses through an algorithmic formalization of Hebbian learning. ([AC]).
+
+## v1.0: Theoretical Computer Science and Multi-agent systems
 
 Originally motivated by an interest in the theory of complex systems, my research has focused on computational dynamics ([CompDyn], [SurvDyn]), i.e., simple distributed
 probabilistic algorithms which allow multi-agent systems to solve global
@@ -72,6 +75,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [DistFlow]: https://dl.acm.org/doi/10.5555/3237383.3237935
 [DistSparse]: https://epubs.siam.org/doi/10.1137/1.9781611975994.80
 [FYPComDet]: https://epubs.siam.org/doi/10.1137/19M1243026
+[HID]: https://hal.science/hal-03157141v2
 [I3S]: http://www.i3s.unice.fr
 [INRIA]: https://www.inria.fr
 [IgnComp]: https://dl.acm.org/doi/10.1145/3087801.3087817
