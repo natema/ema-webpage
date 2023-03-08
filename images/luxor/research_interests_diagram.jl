@@ -50,7 +50,9 @@ end
 	
 	topicstart = years[5].point[1]
 	stringsize = 197
-	timeline("computational neuroscience", 2, topicstart, stringsize; timelinesize)	
+	until = years[10].point[1]
+	timeline("computational neuroscience", 2, topicstart, stringsize; until, timelinesize)	
+	topicstart = years[7].point[1]
 	stringsize = 123
 	timeline("machine learning", 3, topicstart, stringsize; timelinesize)
 
