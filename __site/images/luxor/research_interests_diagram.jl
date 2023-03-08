@@ -56,9 +56,9 @@ end
 	stringsize = 123
 	timeline("machine learning", 3, topicstart, stringsize; timelinesize)
 
-	topicstart = years[8].point[1]
-	stringsize = 212
-	timeline("integrated assessment models", 4, topicstart, stringsize; timelinesize)
+	topicstart = years[9].point[1]
+	stringsize = 40
+	timeline("IAMs", 4, topicstart, stringsize; timelinesize)
 
 end 770 150 "research_interests_diagram"
 ##
