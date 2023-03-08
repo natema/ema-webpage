@@ -137,6 +137,8 @@ tags = ["syntax", "code"]
 
 ### Reviewer Activity
 
+Member of the reviewer panel for [JuliaCon'23](https://juliacon.org/2023/) (11 reviews).
+
 Conference reviews for 
 AAAI, AAMAS, CIAC, DISC, EURO-PAR, ICALP, ICDCS, IJCAI-PRICAI, IPDPS, OPODIS, PODC, RS&A, SEA, SIROCCO, SODA, SPAA, STOC, UAI.
 
