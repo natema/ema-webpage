@@ -28,8 +28,8 @@ In 2019, I've received the *Best Italian Young Researcher in Theoretical Compute
 
 ### Research
 
-I'm interested in machine learning and artificial intelligence, with a focus on theoretical questions about the role of communication in multi-agent systems and sparsity in artificial neural networks.
-I  give a quick overview of my research [here](/research/). 
+I'm interested in machine learning and artificial intelligence, with a focus on theoretical aspects of multi-agent systems and artificial neural networks.
+I give a quick overview of my research [here](/research/). 
 
 
 [UCA]: http://univ-cotedazur.fr 
