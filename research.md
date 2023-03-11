@@ -28,7 +28,7 @@ Starting in 2021, I've also been working on an [integrated assessment modeling l
 
 From 2017 until 2022, I've been interested in theoretical and computational neuroscience. 
 I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how the central nervous system is organized. 
-I've also worked on the Assembly Calculus, a theoretical framework that explains the emergence of high-level cognition from the low-level behavior of neurons and synapses through an algorithmic formalization of Hebbian learning. ([AC]).
+I've also worked on the Assembly Calculus, a theoretical framework that explains the emergence of high-level cognition from the low-level behavior of neurons and synapses through an algorithmic formalization of Hebbian learning ([AC]).
 
 ## v1.0: Theoretical Computer Science and Multi-agent systems
 
