@@ -10,7 +10,7 @@ tags = ["syntax", "code"]
 
 ## 2023
 
-* *On the Random Subset Sum Problem and Neural Networks*, Seminar at GSSI (L'Aquila, Italy). [Slides](https://slides.com/natema/gssi-natale-2023)
+* *On the Random Subset Sum Problem and Neural Networks*, Seminar at GSSI (L'Aquila, Italy). [Slides](https://slides.com/natema/gssi-natale-2023).
 * *On the Random Subset Sum Problem and Neural Networks*, Meeting with the HCERES evaluation committee. [Slides](https://slides.com/natema/hw-ann-via-rss-25824a/fullscreen?token=HXS0MaV2).
 * *Présentation du langage Julia*, [Demi-journée Julia at Inria](https://project.inria.fr/jjinria/fr/).
 
