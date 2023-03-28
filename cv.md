@@ -106,6 +106,7 @@ tags = ["syntax", "code"]
 
 #### Program Committee
 
+- [NeurIPS'23](https://neurips.cc/),
 - [UAI'23](https://www.auai.org/uai2023/),
 - [AAAI'23](https://aaai.org/Conferences/AAAI-23/),
 - [AAAI'22](https://aaai.org/Conferences/AAAI-22/), 
