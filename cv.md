@@ -118,7 +118,7 @@ tags = ["syntax", "code"]
 
 #### Expert panels and hiring committees
 
-- Member of the Expert Panel ``ST6 – Computer science and informatics" of the National Science Centre of Poland, 2023.
+- Member of the ST6 Expert Panel (Computer science and informatics) of the National Science Centre of Poland, 2023.
 - Expert reviewer for the French Agence Nationale de la Recherche (ANR), 2022.
 - Expert reviewer for the National Science Centre of Poland, 2021.
 - Internal member of the selection committee for the Maître de conférences position (associate professor equiv.) "MCF 27 749" at Université Côte d'Azure, 2021.
