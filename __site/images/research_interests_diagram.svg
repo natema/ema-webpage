@@ -103,7 +103,7 @@
 </symbol>
 </g>
 </defs>
-<g id="surface6">
+<g id="surface1">
 <rect x="0" y="0" width="770" height="150" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="10.8105" y="31"/>
@@ -277,9 +277,8 @@
   <use xlink:href="#glyph0-14" x="492.824" y="89.5"/>
   <use xlink:href="#glyph0-23" x="500.247" y="89.5"/>
 </g>
-<path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,50.196078%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 510 87 L 673 87 "/>
-<path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:4,4;stroke-miterlimit:10;" d="M 673 87 L 745 87 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 676 87 C 676 92.332031 668 92.332031 668 87 C 668 81.667969 676 81.667969 676 87 "/>
+<path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,50.196078%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 510 87 L 745 87 "/>
+<path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:4,4;stroke-miterlimit:10;" d="M 745 87 L 745 87 "/>
 <path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:4,4;stroke-miterlimit:10;" d="M 25 107 L 457 107 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 460 107 C 460 112.332031 452 112.332031 452 107 C 452 101.667969 460 101.667969 460 107 "/>
 <g style="fill:rgb(0%,50.196078%,0%);fill-opacity:1;">

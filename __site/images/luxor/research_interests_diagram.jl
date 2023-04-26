@@ -29,9 +29,9 @@ end
 	lastyear = 2023
 	years = [
 		(
-			string=string(y), 
+			string=string(y),
 			point=Point(timelinesize*(y-2013)/(2023-2013),-.8linespace)
-		) 
+		)
 		for y in 2013:lastyear
 	]
 	for y in years
@@ -47,11 +47,11 @@ end
 	stringsize = 223
 	until = years[9].point[1]
 	timeline("biological distributed algorithms", 1, topicstart, stringsize; until, timelinesize)
-	
+
 	topicstart = years[5].point[1]
 	stringsize = 197
 	until = years[10].point[1]
-	timeline("computational neuroscience", 2, topicstart, stringsize; until, timelinesize)	
+	timeline("computational neuroscience", 2, topicstart, stringsize; timelinesize)
 	topicstart = years[7].point[1]
 	stringsize = 123
 	timeline("machine learning", 3, topicstart, stringsize; timelinesize)
