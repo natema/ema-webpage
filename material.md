@@ -24,7 +24,7 @@ tags = ["syntax", "code"]
 
 ## 2020
 
-* *Algorithms for Simplifying Neural Networks*, Innovation Defense Lab, Paris (FR). **Cancelled (COVID-19)**. [PDF](/static/docs/talks-2020/Pairs_1001_AID/AID20.pdf).
+* *Algorithms for Simplifying Neural Networks*, Innovation Defense Lab, Paris (FR). [PDF](/static/docs/talks-2020/Pairs_1001_AID/AID20.pdf).
 
 * *SEA 2021 Trailer*, at SEA 2021, virtual conference. [PDF](/static/docs/talks-2020/SEA20/trailer_SEA21.pdf).
 
