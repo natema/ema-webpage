@@ -157,6 +157,10 @@ Journal reviews for Distributed Computing, PLOS One, JCSS, Computer Networks, Ph
 
 Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gualà](http://www.mat.uniroma2.it/~guala/), we created and currently manage the [Complexity of Games Compendium](https://www.isnphard.com/).
 
+#### Academic Initiatives
+
+- In 2020, I led the initiative to sign an official agreement between Sharif University of Technology (SUT) and Université Côte d'Azur (UCA) in order to be able to offer a scholarship to selected SUT students for UCA's Ubinet master's program.  
+
 ## Positions
 
 ### 2019 - ...
