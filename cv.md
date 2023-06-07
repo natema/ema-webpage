@@ -9,10 +9,11 @@ tags = ["syntax", "code"]
 
 ## Supervisor Activity
 
-### Post-docs
+### Post-docs & Research Engineers
 
 * [Damien Rivet](), Post-doc (BraInside project), COATI Team, 2022-07 — 2023-06.
-* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), I3S Post-doc fellowship, 2019-11 — 2020-10.
+* [Paulo Bruno Serafim](https://paulobruno.github.io/), Research Engineer (BraInside project), COATI Team, 2022-04 — 2022-09.
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), I3S Post-doc fellowship, 2019-11 — 2020-10. 
 
 ### PhD Students
 
