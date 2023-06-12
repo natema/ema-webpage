@@ -10,14 +10,15 @@ tags = ["syntax", "code"]
 
 ## 2023
 
-* *On the Random Subset Sum Problem and Neural Networks*, In'Tro seminar May 2023 (INRIA d'Université Côte d'Azur). [Slides](https://slides.com/natema/intro-2023).
-* *On the Random Subset Sum Problem and Neural Networks*, Seminar at GSSI (L'Aquila, Italy). [Slides](https://slides.com/natema/gssi-natale-2023).
-* *On the Random Subset Sum Problem and Neural Networks*, Meeting with the HCERES evaluation committee. [Slides](https://slides.com/natema/hw-ann-via-rss-25824a/fullscreen?token=HXS0MaV2).
-* *Présentation du langage Julia*, [Demi-journée Julia at Inria](https://project.inria.fr/jjinria/fr/).
+* *BraInside - Algorithmes pour la Simplification des Réseaux de Neurones*, Journée MinArm-INRIA, 
+* *On the Random Subset Sum Problem and Neural Networks*, In'Tro seminar May 2023, INRIA d'Université Côte d'Azur. [PDF](/static/docs/talks-2023/MinArm-INRIA-Paris-2023.pdf).
+* *On the Random Subset Sum Problem and Neural Networks*, Seminar at GSSI, L'Aquila (IT). [Slides](https://slides.com/natema/gssi-natale-2023).
+* *On the Random Subset Sum Problem and Neural Networks*, Meeting with the HCERES evaluation committee, Université Côte d'Azur. [Slides](https://slides.com/natema/hw-ann-via-rss-25824a/fullscreen?token=HXS0MaV2).
+* *Présentation du langage Julia*, [Demi-journée Julia at Inria](https://project.inria.fr/jjinria/fr/), INRIA d'Université Côte d'Azur.
 
 ## 2022
 
-* *Programmable Resistances from Inaccurate Resistors via Random Subset-Sum Theory*, INRIA-ARM meeting. [Slides](https://slides.com/natema/hw-ann-via-rss/fullscreen?token=mZtgCXlt).
+* *Programmable Resistances from Inaccurate Resistors via Random Subset-Sum Theory*, INRIA-ARM meeting, INRIA d'Université Côte d'Azur. [Slides](https://slides.com/natema/hw-ann-via-rss/fullscreen?token=mZtgCXlt).
 
 ## 2021
 
@@ -25,7 +26,7 @@ tags = ["syntax", "code"]
 
 ## 2020
 
-* *Algorithms for Simplifying Neural Networks*, Innovation Defense Lab, Paris (FR). [PDF](/static/docs/talks-2020/Pairs_1001_AID/AID20.pdf).
+* *Algorithms for Simplifying Neural Networks*, Innovation Defense Lab, Paris. [PDF](/static/docs/talks-2020/Pairs_1001_AID/AID20.pdf).
 
 * *SEA 2021 Trailer*, at SEA 2021, virtual conference. [PDF](/static/docs/talks-2020/SEA20/trailer_SEA21.pdf).
 
