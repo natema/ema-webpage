@@ -20,7 +20,7 @@ tags = ["syntax", "code"]
 
 ## v3.0: Machine Learning 
 
-Starting in 2019, I've been working on the theory of sparsification of artificial neural networks ([LTH]), and on other problems in machine learning ([HID]).
+Starting in 2019, I've been working on the theory of sparsification of artificial neural networks ([LTH], [RSS]), and on other problems in machine learning ([HID]).
 
 Starting in 2021, I've also been working on an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl), with the goal of applying **scientific machine learning** to develop models related to [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
@@ -92,6 +92,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [PegS]: https://drops.dagstuhl.de/opus/volltexte/2016/5870/
 [PhaseTrans]: https://dl.acm.org/doi/10.5555/3237383.3237499
 [RepBins]: https://link.springer.com/article/10.1007%2Fs00446-017-0320-4
+[RSS]: https://hal.science/hal-03654720/
 [SimpleDyn]: https://link.springer.com/article/10.1007%2Fs00446-016-0289-4
 [StabCons]: https://epubs.siam.org/doi/10.1137/1.9781611974331.ch46
 [SurvDyn]: https://dl.acm.org/doi/10.1145/3388392.3388403
