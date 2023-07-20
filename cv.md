@@ -23,12 +23,12 @@ tags = ["syntax", "code"]
 
 ### Interns and undergraduate students
 
-* Aurora Rossi (Verona University, MSc student), intern in the COATI Team (also Erasmus scholarship), Sophia Antipolis, during 2022-02 — 2022-07.
-* Cyprien Michel-Deletie (ENS Lyon, ENS student), intern in the I3S Lab (COATI Team), Sophia Antipolis, during Summer 2021.
-* Marcello Politi (Univ. of Rome "Tor Vergata", MSc student), MSc. in Informatics, also hosted as an intern in the COATI Team during Spring 2021.
-* Arno Gobbin, PFE at Polytech Nice Sophia (BSc student). Project: Computational complexity of puzzles and games. 2019-20.
-* Hossein Baktash (Sharif Institute of Technology, BSc student), intern in the I3S Lab (COATI Team), Sophia Antipolis, during Summer 2019.
-* Paul Bastide (ENS Rennes, ENS student), intern in the COATI Team, Sophia Antipolis, during Spring 2019.
+* Aurora Rossi (Verona University, MSc student), intern in the COATI Team (also Erasmus scholarship). 2022-02 — 2022-07. Project: "Temporal Brain Networks: bridging Theory and Real Data".
+* Cyprien Michel-Deletie (ENS Lyon, ENS student), intern in the COATI Team, I3S Lab. Summer 2021. Project: "Null Processes for Computational Neuroscience".
+* Marcello Politi (Univ. of Rome "Tor Vergata", MSc student), MSc. in Informatics, also hosted as an intern in the COATI Team. Spring 2021.
+* Arno Gobbin, PFE at Polytech Nice Sophia (BSc student). 2019-20. Project: "Computational complexity of puzzles and games".
+* Hossein Baktash (Sharif Institute of Technology, BSc student), intern in the COATI Team, I3S Lab. Summer 2019. Project: "Compression of Artificial Neural Networks".
+* Paul Bastide (ENS Rennes, ENS student), intern in the COATI Team, I3S Lab. Spring 2019.
 * Iliad Ramezani (Sharif Institute of Technology, BSc student), intern at Max-Planck Institute for Informatics, Saarbrücken, during Summer 2018.
 * Emilio Cruciani (Gran Sasso Science Institute, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017.
 * Giacomo Scornavacca (Università degli Studi dell'Aquila, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017.
