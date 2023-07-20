@@ -23,6 +23,7 @@ tags = ["syntax", "code"]
 
 ### Interns and undergraduate students
 
+* Maël Clergue (ENS Lyon), intern in the COATI Team. 2023-06 — 2023-08. Project: "Scientific Machine Learning for World Dynamics Modeling".
 * Aurora Rossi (Verona University, MSc student), intern in the COATI Team (also Erasmus scholarship). 2022-02 — 2022-07. Project: "Temporal Brain Networks: bridging Theory and Real Data".
 * Cyprien Michel-Deletie (ENS Lyon, ENS student), intern in the COATI Team, I3S Lab. Summer 2021. Project: "Null Processes for Computational Neuroscience".
 * Marcello Politi (Univ. of Rome "Tor Vergata", MSc student), MSc. in Informatics, also hosted as an intern in the COATI Team. Spring 2021.
