@@ -15,5 +15,5 @@ F-06902 Sophia Antipolis Cedex
 
 [GPS: 43.61613N 7.06782E](https://www.qwant.com/maps/place/latlon:43.61613:7.06782@4361613_706782/#map=16/43.6161300/7.0678200)
 
-E-mail: emanuele.natale&#128012;inria.fr
+E-mail: emanuele.natale&#128012;cnrs.fr
 
