@@ -105,10 +105,14 @@ tags = ["syntax", "code"]
 
 - Steering committee member of the [Symposium on Experimental Algorithms](https://en.wikipedia.org/wiki/Symposium_on_Experimental_Algorithms) (3-year service since 2022 as past-PC member).
 
+#### Conference Reviewer
+
+- [ICLR'24](https://iclr.cc/) (reduced load),
+- [NeurIPS'23](https://neurips.cc/) (reduced load).
+
 #### Program Committee
 
 - [AAAI'24](https://aaai.org/Conferences/AAAI-24/),
-- [NeurIPS'23](https://neurips.cc/),
 - [UAI'23](https://www.auai.org/uai2023/) (identified as Top Reviewer by the PC chairs),
 - [AAAI'23](https://aaai.org/Conferences/AAAI-23/),
 - [AAAI'22](https://aaai.org/Conferences/AAAI-22/),
