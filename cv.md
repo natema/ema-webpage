@@ -171,7 +171,7 @@ Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gual
 
 ### 2019 - ...
 
-[CNRS] researcher (Chargé de Recherche) at the [I3S Lab][I3S] ([Université Côte d’Azur][UCA]), and a member of the [INRIA] [Project-Team COATI][COATI].
+[CNRS] researcher (Chargé de Recherche) at the [Université Côte d’Azur][UCA], in the joint [Project-Team COATI][COATI] between [INRIA] and [I3S][I3S].
 
 ### May 2022 - July 2022
 

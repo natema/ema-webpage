@@ -21,14 +21,15 @@ Project-Team][COATI] between [INRIA] and [I3S][I3S] .
 <br>
 ~~~
 
-### About
+### About me
 
 Before accepting a CNRS position in 2018, I've been a fellow of the [*Simons Institute for the Theory of Computing*](https://simons.berkeley.edu/) in the Brain and Computation Program and a postdoctoral fellow at the [*Max Planck Institute for Informatics*](https://www.mpi-inf.mpg.de/departments/algorithms-complexity).
-In 2019, I've received the *Best Italian Young Researcher in Theoretical Computer Science* award by the Italian Chapter of the European Association of Theoretical Computer Science, from which I also received the *Best PhD Thesis in Theoretical Computer Science* in 2017. In 2016, I've been a recipient of the *Best Student Paper Award* at the European Symposium on Algorithms.
+In 2019, I've received the *Best Italian Young Researcher in Theoretical Computer Science* award by the Italian Chapter of the European Association of Theoretical Computer Science, from which I also received the *Best PhD Thesis in Theoretical Computer Science* in 2017. In 2016, I've been a recipient of the *Best Student Paper Award* at the European Symposium on Algorithms. 
+For more information (projects, academic service etc.), see my [CV](/cv/).
 
 ### Research
 
-I'm interested in machine learning and artificial intelligence, with a focus on theoretical aspects of multi-agent systems and artificial neural networks.
+I'm interested in machine learning and neuroscience, with a focus on theoretical aspects of multi-agent systems and artificial neural networks.
 I give a quick overview of my research [here](/research/). 
 
 
