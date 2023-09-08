@@ -17,9 +17,9 @@ tags = ["syntax", "code"]
 
 ### PhD Students
 
-* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/) (supervisor), INRIA UCA, 2020-10 — 2023-09 (expected).
-* [Francesco D'Amore](https://sites.google.com/view/francesco-damore/home) (co-advisor), INRIA UCA, co-supervised with Nicolas Nisse, 2019-10 — 2022-10.
-* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/) (co-advisor), Gran Sasso Science Institute, co-supervised with G. D'Angelo and L. Becchetti, until 2019-12.
+* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/), INRIA UCA, 2020-10 — 2023-09 (expected).
+* [Francesco D'Amore](https://fdamore95.github.io/), INRIA UCA, co-supervised with Nicolas Nisse, 2019-10 — 2022-10.
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), Gran Sasso Science Institute, co-supervised with G. D'Angelo and L. Becchetti, until 2019-12.
 
 ### Interns and undergraduate students
 
