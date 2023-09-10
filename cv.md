@@ -107,7 +107,6 @@ tags = ["syntax", "code"]
 
 #### Conference Reviewer
 
-- [ICLR'24](https://iclr.cc/) (reduced load),
 - [NeurIPS'23](https://neurips.cc/) (reduced load).
 
 #### Program Committee
@@ -213,15 +212,13 @@ The following list is not exhaustive after September 2015 (and not updated anymo
 
 * **April 2015**. Workshop *Random Walks on Random Graphs and Applications*, at [EURANDOM](https://en.wikipedia.org/wiki/European_Institute_for_Statistics,_Probability,_Stochastic_Operations_Research_and_its_Applications).
 
-* **August 2014**. Summer School on Randomized Techniques for Combinatorial Algorithms, at
-[Simon Fraser University](https://en.wikipedia.org/wiki/Simon_Fraser_University).
+* **August 2014**. Summer School on Randomized Techniques for Combinatorial Algorithms, at [Simon Fraser University](https://en.wikipedia.org/wiki/Simon_Fraser_University).
 
 * **September 2013**. Fall School *Phase Transition in Random Discrete Structures* at [Graz University of Technology](https://en.wikipedia.org/wiki/Graz_University_of_Technology).
 
 * **August 2011**. AILA Summer School in Logic, organized by the [Associazione Italiana di Logica e sue Applicazioni](http://www.ailalogica.it/).
 
-* **September 2010**. The Rome-Moscow School of Matrix Methods and Applied Linear Algebra, organized
-by [Moscow State University](https://en.wikipedia.org/wiki/Moscow_State_University), [Institute of Numerical Mathematics INM-RAS](https://www.inm.ras.ru/en/) and Università di Roma Tor Vergata
+* **September 2010**. The Rome-Moscow School of Matrix Methods and Applied Linear Algebra, organized by [Moscow State University](https://en.wikipedia.org/wiki/Moscow_State_University), [Institute of Numerical Mathematics INM-RAS](https://www.inm.ras.ru/en/) and Università di Roma Tor Vergata
 
 
 ## Other Activities
