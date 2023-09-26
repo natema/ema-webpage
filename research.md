@@ -8,15 +8,6 @@ tags = ["syntax", "code"]
 
 # Research Bio
 
-~~~
-<img src="/images/research_interests_diagram.svg" style="
-	margin-bottom: 30px;
-	border-radius:15%; 
-	float: right; 
-	width:770px;  
-	background-color: #0e6b0e;
-">
-~~~
 
 ## v3.0: Machine Learning 
 
