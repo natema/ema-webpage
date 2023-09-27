@@ -13,7 +13,7 @@ tags = ["syntax", "code"]
 
 Starting in 2019, I've been working on the theory of sparsification of artificial neural networks ([LTH], [SLTH], [RSS]), and on other problems in machine learning ([HID]).
 
-Starting in 2021, I've also been working on an [integrated assessment modeling library](https://github.com/natema/WorldDynamics.jl), with the goal of applying **scientific machine learning** to develop models related to [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
+Starting in 2021, I've also been contributing [integrated assessment modeling software in Julia](https://github.com/worlddynamics), with the goal of applying **scientific machine learning** to develop models related to [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
 ## v2.0: Computational Neuroscience 
 
