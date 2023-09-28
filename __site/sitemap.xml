@@ -26,6 +26,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://natema.github.io/talks/index.html</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://natema.github.io/publications/index.html</loc>
     <lastmod>2023-06-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -34,12 +40,6 @@
 <url>
     <loc>https://natema.github.io/cv/index.html</loc>
     <lastmod>2023-09-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://natema.github.io/material/index.html</loc>
-    <lastmod>2023-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
