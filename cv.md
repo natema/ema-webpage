@@ -81,8 +81,11 @@ tags = ["syntax", "code"]
 
 ## Projects
 
+* **BioSwarm Project - DGA** *(November 2023 – 2027)*
+  Principal investigator together with Olivier Simonin of a 4-year national research project on algorithms for coordination tasks in drone swarms, funded by the DGA (the French Government Defence procurement and technology agency).
+
 * **BraInside Project - DGA** *(November 2019 – 2023)*
-  Principal investigator together with Laurent Viennot of a 3-year national research project on artificial neural networks, funded by the DGA (the French Government Defence procurement and technology agency).
+  Principal investigator together with Laurent Viennot of a 4-year national research project on artificial neural networks, funded by the DGA (the French Government Defence procurement and technology agency).
 
 * **ISIDE Project - University of Rome Tor Vergata** *(March 2018 - August 2019)*
   External member of the [ISIDE](https://www.mat.uniroma2.it/~pasquale/iside/) university-level project (funded by University of Rome Tor Vergata).

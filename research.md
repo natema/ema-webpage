@@ -6,22 +6,42 @@ title = "Research"
 tags = ["syntax", "code"]
 +++
 
-# Research Bio
+## Recent projects
 
+* **BioSwarm Project - DGA** *(November 2023 – 2027)*
+  Principal investigator together with Olivier Simonin of a 4-year national research project on algorithms for coordination tasks in drone swarms, funded by the DGA (the French Government Defence procurement and technology agency).
+* **BraInside Project - DGA** *(November 2019 – 2023)*
+  Principal investigator together with Laurent Viennot of a 4-year national research project on artificial neural networks, funded by the DGA (the French Government Defence procurement and technology agency).
 
-## v3.0: Machine Learning 
+## Group members
+
+### Post-docs & Research Engineers
+
+* [Damien Rivet](), Post-doc (BraInside project), COATI Team, 2022-07 — 2023-06.
+* [Paulo Bruno Serafim](https://paulobruno.github.io/), Research Engineer (BraInside project), COATI Team, 2022-04 — 2022-09.
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), I3S Post-doc fellowship, 2019-11 — 2020-10. 
+
+### PhD Students
+
+* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/), INRIA UCA, 2020-10 — 2023-09.
+* [Francesco D'Amore](https://fdamore95.github.io/), INRIA UCA, co-supervised with Nicolas Nisse, 2019-10 — 2022-10.
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), Gran Sasso Science Institute, co-supervised with G. D'Angelo and L. Becchetti, until 2019-12.
+
+## Research Bio
+
+### Machine Learning 
 
 Starting in 2019, I've been working on the theory of sparsification of artificial neural networks ([LTH], [SLTH], [RSS]), and on other problems in machine learning ([HID]).
 
 Starting in 2021, I've also been contributing [integrated assessment modeling software in Julia](https://github.com/worlddynamics), with the goal of applying **scientific machine learning** to develop models related to [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
-## v2.0: Computational Neuroscience 
+### Computational Neuroscience 
 
 Since 2017, I've been interested in theoretical and computational neuroscience. 
 I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently, I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how the central nervous system is organized. 
 I've also worked on the Assembly Calculus, a theoretical framework that explains the emergence of high-level cognition from the low-level behavior of neurons and synapses through an algorithmic formalization of Hebbian learning ([AC]).
 
-## v1.0: Theoretical Computer Science and Multi-agent Systems
+### Theoretical Computer Science and Multi-agent Systems
 
 Originally motivated by an interest in the theory of complex systems, my research has focused on computational dynamics ([CompDyn], [SurvDyn]), i.e., simple distributed
 probabilistic algorithms which allow multi-agent systems to solve global
@@ -41,11 +61,11 @@ Besides all that, I investigated some other distributed-computing problems ([Rep
 enjoyed working on some algorithm engineering projects ([Kadabra]), 
 and studied the complexity of certain combinatorial puzzles and games ([Candy], [PegS], [CoG]).
 
-# Code 
+## Code 
 
 You can find some of my code on [my Github page](https://github.com/natema).
 
-# Misc
+## Misc
 
 Here's 
 ~~~ 
