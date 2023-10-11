@@ -30,7 +30,7 @@ For more information (projects, academic service etc.), see my [CV](/cv/).
 ### Research
 
 I'm interested in machine learning and neuroscience, with a focus on theoretical aspects of multi-agent systems and artificial neural networks.
-I give a quick overview of my research [here](/research/). 
+I give a quick overview of my research [here](/research/#research_bio). 
 
 
 [UCA]: http://univ-cotedazur.fr 
