@@ -31,7 +31,8 @@ tags = ["syntax", "code"]
 
 ### Machine Learning 
 
-Starting in 2019, I've been working on the theory of sparsification of artificial neural networks ([LTH], [SLTH], [RSS]), and on other problems in machine learning ([HID]).
+Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS]). 
+<!-- and on other problems in machine learning ([HID]). -->
 
 Starting in 2021, I've also been contributing [integrated assessment modeling software in Julia](https://github.com/worlddynamics), with the goal of applying **scientific machine learning** to develop models related to [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
