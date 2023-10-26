@@ -81,6 +81,8 @@ tags = ["syntax", "code"]
 
 ## Projects
 
+### Project coordination
+
 * **BioSwarm Project - DGA** *(November 2023 – 2027)*
   Principal investigator together with Olivier Simonin of a 4-year national research project on algorithms for coordination tasks in drone swarms, funded by the DGA (the French Government Defence procurement and technology agency).
 
@@ -92,6 +94,10 @@ tags = ["syntax", "code"]
 
 * **Sapienza "Progetti Avvio alla Ricerca Anno 2015"** *(August 2015 - August 2016)*
   Progetti Avvio alla Ricerca Anno 2015 were small grants from Sapienza University reserved to PhD students and postdocs.
+
+### Project participation
+
+* Member of the "GameTable" COST Action CA22145. 2023 - 2027 
 
 ## Academic Service
 
