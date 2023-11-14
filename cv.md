@@ -143,12 +143,20 @@ tags = ["syntax", "code"]
 
 #### PhD Thesis Committee
 
-- Member of the Brieuc Guinard's PhD jury.
+- Member of Prokopchik Konstantin's PhD jury.
+  Date of defense: March 24th 2023.
+  Institution: GSSI (L'Aquila, Italy).
+  Thesis title: *Hypergraph-based Methods for Semi-Supervised Learning*.
+
+- Member of Brieuc Guinard's PhD jury.
   Date of defense: November 4th 2020.
   Institution: IRIF (Paris).
   Thesis title: *Intermittent Lévy Walks and applications to biological searches*.
 
-- Member of the Stephan Friedrichs' PhD committee (academic assistant), defended on September 11th 2017 at Max Planck Institute for Informatics. Thesis title: *Metastability-Containing Circuits, Parallel Distance Problems, and Terrain Guarding*.
+- Member of the Stephan Friedrichs' PhD committee.
+  Date of defense: September 11th 2017.
+  Institution: Max Planck Institute for Informatics. 
+  Thesis title: *Metastability-Containing Circuits, Parallel Distance Problems, and Terrain Guarding*.
 
 #### Organized Workshops
 
