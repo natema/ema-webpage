@@ -10,6 +10,7 @@ tags = ["syntax", "code"]
 
 ## 2023
 
+* *Une implémentation GPU de la méthode de recherche approximative FlyHash*, Conference on Artificial Intelligence for Defense, Rennes. [PDF](/static/docs/talks-2023/CAID.pdf).
 * *Algorithms for the network alignment problem*, Journées Julia et Optimisation at CNAM, Paris. [Slides](https://slides.com/natema/deck-33ee3f).
 * *BraInside - Algorithmes pour la Simplification des Réseaux de Neurones*, Journée MinArm-INRIA. [PDF](/static/docs/talks-2023/MinArm-INRIA-Paris-2023.pdf). 
 * *On the Random Subset Sum Problem and Neural Networks*, In'Tro seminar May 2023, INRIA d'Université Côte d'Azur. [Slides](https://slides.com/natema/intro-2023).
