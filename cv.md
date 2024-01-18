@@ -116,6 +116,7 @@ tags = ["syntax", "code"]
 
 #### Conference Reviewer
 
+- [ICML'24](https://icml.cc/Conferences/2024),
 - [NeurIPS'23](https://neurips.cc/) (reduced load).
 
 #### Program Committee

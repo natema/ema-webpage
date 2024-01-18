@@ -32,14 +32,15 @@ tags = ["syntax", "code"]
 ### Machine Learning 
 
 Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS]). 
-<!-- and on other problems in machine learning ([HID]). -->
+<!-- and on other problems in machine learning ([HID], [CAID]). -->
 
 Starting in 2021, I've also been contributing [integrated assessment modeling software in Julia](https://github.com/worlddynamics), with the goal of applying **scientific machine learning** to develop models related to [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
 ### Computational Neuroscience 
 
 Since 2017, I've been interested in theoretical and computational neuroscience. 
-I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently, I've been working on algorithmic problems such as network alignment ([BrainAlign]), in order to investigate, through a comparative approach, how the central nervous system is organized. 
+I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently, I've been working on providing algorithmic and mathematical tools to investigate how the central nervous system is organized. 
+In that respect, I worked on the problem of network alignment applied to brain atlases ([BrainAlign]) and on a temporal version of the Hyperbolic Random Graph as a null model for fMRI data ([Hyper]). 
 I've also worked on the Assembly Calculus, a theoretical framework that explains the emergence of high-level cognition from the low-level behavior of neurons and synapses through an algorithmic formalization of Hebbian learning ([AC]).
 
 ### Theoretical Computer Science and Multi-agent Systems
@@ -77,9 +78,10 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 
 [AC]: https://hal.archives-ouvertes.fr/hal-03479582/
 [BrainAlign]: https://hal.archives-ouvertes.fr/hal-03033777
+[CAID]: https://hal.science/hal-04328529
+[Candy]: https://ieeexplore.ieee.org/document/6932866
 [CNRS]: https://www.cnrs.fr
 [COATI]: https://team.inria.fr/coati/team-members 
-[Candy]: https://ieeexplore.ieee.org/document/6932866
 [CoG]: https://gitlab.com/steven3k/complexity-of-games
 [CompDyn]: https://tel.archives-ouvertes.fr/tel-02002681
 [ConsBroad]: https://drops.dagstuhl.de/opus/volltexte/2020/11727/
@@ -88,6 +90,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [DistSparse]: https://epubs.siam.org/doi/10.1137/1.9781611975994.80
 [FYPComDet]: https://epubs.siam.org/doi/10.1137/19M1243026
 [HID]: https://hal.science/hal-03157141v2
+[Hyper]: https://hal.science/hal-04389639
 [I3S]: http://www.i3s.unice.fr
 [INRIA]: https://www.inria.fr
 [IgnComp]: https://dl.acm.org/doi/10.1145/3087801.3087817
