@@ -131,8 +131,9 @@ tags = ["syntax", "code"]
 - [IJCAI-PRICAI'20](https://ijcai20.org/),
 - [SPAA'19](https://spaa.acm.org/2019/call_for_papers.html).
 
-#### Expert panels and hiring committees
+#### Expert panels, hiring committees et sim.
 
+- Project reviewer for the *Idées 2024* call of the *Académie d’Excellence Réseaux, Information et Société numérique*  of Université Côte d'Azur, January-February 2024.
 - Member of the ST6 Expert Panel (Computer science and informatics) of the National Science Centre of Poland, 2023.
 - Expert reviewer for the French Agence Nationale de la Recherche (ANR), 2022.
 - Expert reviewer for the National Science Centre of Poland, 2021.
