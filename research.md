@@ -32,7 +32,7 @@ tags = ["syntax", "code"]
 ### Machine Learning 
 
 Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS]). 
-<!-- and on other problems in machine learning ([HID], [CAID]). -->
+<!-- and on other problems in machine learning ([HID], [CAID], [SCHED]). -->
 
 Starting in 2021, I've also been contributing [integrated assessment modeling software in Julia](https://github.com/worlddynamics), with the goal of applying **scientific machine learning** to develop models related to [sustainable development goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). 
 
@@ -108,6 +108,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [PhaseTrans]: https://dl.acm.org/doi/10.5555/3237383.3237499
 [RepBins]: https://link.springer.com/article/10.1007%2Fs00446-017-0320-4
 [RSS]: https://hal.science/hal-03654720/
+[SCHED]: https://2024.ccgrid-conference.org/
 [SimpleDyn]: https://link.springer.com/article/10.1007%2Fs00446-016-0289-4
 [SLTH]: https://hal.science/hal-04143024/
 [StabCons]: https://epubs.siam.org/doi/10.1137/1.9781611974331.ch46

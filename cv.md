@@ -17,6 +17,7 @@ tags = ["syntax", "code"]
 
 ### PhD Students
 
+* [Davide Ferre](), UCA, co-supervised with Frederic Giroire, 2024-1 — present.
 * [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/), INRIA UCA, 2020-10 — 2023-09.
 * [Francesco D'Amore](https://fdamore95.github.io/), INRIA UCA, co-supervised with Nicolas Nisse, 2019-10 — 2022-10.
 * [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), Gran Sasso Science Institute, co-supervised with G. D'Angelo and L. Becchetti, until 2019-12.
