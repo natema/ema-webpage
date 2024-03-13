@@ -96,9 +96,10 @@ tags = ["syntax", "code"]
 * **Sapienza "Progetti Avvio alla Ricerca Anno 2015"** *(August 2015 - August 2016)*
   Progetti Avvio alla Ricerca Anno 2015 were small grants from Sapienza University reserved to PhD students and postdocs.
 
-### Project participation
+### Project participation and affiliation
 
-* Member of the "GameTable" COST Action CA22145. 2023 - 2027 
+* Member of the [NeuroMod Institute for Modeling in Neuroscience and Cognition at UCA](https://neuromod.univ-cotedazur.eu/).
+* Member of the "GameTable" COST Action CA22145. 2023 - 2027.
 
 ## Academic Service
 
