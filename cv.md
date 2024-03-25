@@ -114,7 +114,7 @@ tags = ["syntax", "code"]
 
 #### Steering Committee
 
-- Steering committee member of the [Symposium on Experimental Algorithms](https://en.wikipedia.org/wiki/Symposium_on_Experimental_Algorithms) (3-year service since 2022 as past-PC member).
+- Steering committee member of the [Symposium on Experimental Algorithms](https://en.wikipedia.org/wiki/Symposium_on_Experimental_Algorithms), 2022-2024.
 
 #### Conference Reviewer
 
