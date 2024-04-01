@@ -212,6 +212,8 @@ Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIM
 
 ## Education
 
+* **2024**. Habilitation à Diriger des Recherches (HDR) in Computer Science at Université Côte d'Azur.
+
 * **2013 - 2017**.  PhD in Computer Science at Sapienza Università di Roma, advised by Riccardo Silvestri and Andrea Clementi.
 
 * **February 2011 - July 2013**. Master's degree in Computer Science at Università di Roma Tor Vergata.
