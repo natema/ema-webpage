@@ -17,6 +17,7 @@ tags = ["syntax", "code"]
 
 ### PhD Students
 
+* [Niccolò D'Archivio](), INRIA, co-supervised with Frederic Giroire, 2024-4 — present.
 * [Davide Ferre](), UCA, co-supervised with Frederic Giroire, 2024-1 — present.
 * [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/), INRIA UCA, 2020-10 — 2023-09.
 * [Francesco D'Amore](https://fdamore95.github.io/), INRIA UCA, co-supervised with Nicolas Nisse, 2019-10 — 2022-10.
@@ -24,6 +25,7 @@ tags = ["syntax", "code"]
 
 ### Interns and undergraduate students
 
+* Pierre Pereira, INRIA, pre-doctoral student, 2024-05 - 2024-08 (expected).
 * Maël Clergue (ENS Lyon), intern in the COATI Team. 2023-06 — 2023-08. Project: "Scientific Machine Learning for World Dynamics Modeling".
 * Aurora Rossi (Verona University, MSc student), intern in the COATI Team (also Erasmus scholarship). 2022-02 — 2022-07. Project: "Temporal Brain Networks: bridging Theory and Real Data".
 * Cyprien Michel-Deletie (ENS Lyon, ENS student), intern in the COATI Team, I3S Lab. Summer 2021. Project: "Null Processes for Computational Neuroscience".
