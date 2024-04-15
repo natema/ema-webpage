@@ -8,6 +8,10 @@ tags = ["syntax", "code"]
 
 # Talks
 
+## 2024
+
+* *A journey across distributed computing, neuroscience and machine learning*, HDR defense, INRIA d'Université Côte d'Azur. [Slides](https://docs.google.com/presentation/d/1vm7NOPyUF2L0AgxbslJI-49tRog6DbUdYqF97g0dBPs/edit?usp=sharing).
+
 ## 2023
 
 * *Une implémentation GPU de la méthode de recherche approximative FlyHash*, Conference on Artificial Intelligence for Defense, Rennes. [PDF](/static/docs/talks-2023/CAID.pdf).
