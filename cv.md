@@ -145,6 +145,7 @@ tags = ["syntax", "code"]
 
 #### Expert panels, hiring committees et sim.
 
+- Jury member for the PhD scholarship selection of the Neuromod Institute, Université Côte d'Azur, 2024. 
 - Project reviewer for the *Idées 2024* call of the *Académie d’Excellence Réseaux, Information et Société numérique*  of Université Côte d'Azur, January-February 2024.
 - Member of the ST6 Expert Panel (Computer science and informatics) of the National Science Centre of Poland, 2023.
 - Expert reviewer for the French Agence Nationale de la Recherche (ANR), 2022.
