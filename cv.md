@@ -103,6 +103,13 @@ tags = ["syntax", "code"]
 * Member of the [NeuroMod Institute for Modeling in Neuroscience and Cognition at UCA](https://neuromod.univ-cotedazur.eu/).
 * Member of the "GameTable" COST Action CA22145. 2023 - 2027.
 
+## Invited Speaker
+
+* 10th Workshop on Biological Distributed Algorithms (BDA), Nantes (France).
+* 20th Italian Conference on Theoretical Computer Science (ICTCS), Como (Italy).
+* 18th Italian Conference on Theoretical Computer Science (ICTCS), Naples (Italy).
+* Workshop on Random Processes in Discrete Structures (2016), University of Warwick, Coventry (UK).
+
 ## Academic Service
 
 ### Editorial Service
@@ -120,8 +127,9 @@ tags = ["syntax", "code"]
 
 #### Conference Reviewer
 
+- [NeurIPS'24](https://neurips.cc/Conferences/2024)
 - [ICML'24](https://icml.cc/Conferences/2024),
-- [NeurIPS'23](https://neurips.cc/) (reduced load).
+- [NeurIPS'23](https://neurips.cc/Conferences/2023) (reduced load).
 
 #### Program Committee
 
