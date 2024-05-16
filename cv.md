@@ -44,10 +44,6 @@ tags = ["syntax", "code"]
 
 ## Awards, Grants etc.
 
-### 2022
-
-* _Abilitazione Scientifica Nazionale, settore 01/B1 Informatica, II Fascia_: I obtained the Italian qualification as associate professor in Informatics.
-
 ### 2019
 
 * Best Italian Young Researcher in Theoretical Computer Science, awarded by the Italian Chapter of the [EATCS](http://eatcs.org/).
@@ -224,6 +220,8 @@ Fellow of the [Simons Institute for the Theory of Computing (U.C. Berkeley)][SIM
 ## Education
 
 * **2024**. Habilitation à Diriger des Recherches (HDR) in Computer Science at Université Côte d'Azur.
+
+* **2022**. _Abilitazione Scientifica Nazionale, settore 01/B1 Informatica, II Fascia_: I obtained the Italian qualification as associate professor in Informatics.
 
 * **2013 - 2017**.  PhD in Computer Science at Sapienza Università di Roma, advised by Riccardo Silvestri and Andrea Clementi.
 
