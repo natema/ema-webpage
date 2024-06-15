@@ -101,9 +101,9 @@ tags = ["syntax", "code"]
 
 ## Invited Speaker
 
-* 10th Workshop on Biological Distributed Algorithms (BDA), Nantes (France).
-* 20th Italian Conference on Theoretical Computer Science (ICTCS), Como (Italy).
-* 18th Italian Conference on Theoretical Computer Science (ICTCS), Naples (Italy).
+* 10th Workshop on Biological Distributed Algorithms (BDA 2024), Nantes (France).
+* 20th Italian Conference on Theoretical Computer Science (ICTCS 2019), Como (Italy).
+* 18th Italian Conference on Theoretical Computer Science (ICTCS 2017), Naples (Italy).
 * Workshop on Random Processes in Discrete Structures (2016), University of Warwick, Coventry (UK).
 
 ## Academic Service
