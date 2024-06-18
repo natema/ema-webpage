@@ -129,6 +129,7 @@ tags = ["syntax", "code"]
 
 #### Program Committee
 
+- [AAAI'25](https://aaai.org/Conferences/AAAI-25/),
 - [AAAI'24](https://aaai.org/Conferences/AAAI-24/),
 - [UAI'23](https://www.auai.org/uai2023/) (identified as Top Reviewer by the PC chairs),
 - [AAAI'23](https://aaai.org/Conferences/AAAI-23/),
