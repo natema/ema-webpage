@@ -13,7 +13,7 @@ tags = ["syntax", "code"]
 
 * [Damien Rivet](), Post-doc (BraInside project), COATI Team, 2022-07 — 2023-06.
 * [Paulo Bruno Serafim](https://paulobruno.github.io/), Research Engineer (BraInside project), COATI Team, 2022-04 — 2022-09.
-* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), I3S Post-doc fellowship, 2019-11 — 2020-10. 
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), I3S Post-doc fellowship, 2019-11 — 2020-10.
 
 ### PhD Students
 
@@ -25,6 +25,7 @@ tags = ["syntax", "code"]
 
 ### Interns and undergraduate students
 
+* Aakash Kumar (IISER Kolkata), remote MSc thesis supervision. 2024-08 — 2025-05. Project: "Phase transitions in Neural Networks".
 * Pierre Pereira, INRIA, pre-doctoral student, 2024-05 - 2024-08 (expected).
 * Maël Clergue (ENS Lyon), intern in the COATI Team. 2023-06 — 2023-08. Project: "Scientific Machine Learning for World Dynamics Modeling".
 * Aurora Rossi (Verona University, MSc student), intern in the COATI Team (also Erasmus scholarship). 2022-02 — 2022-07. Project: "Temporal Brain Networks: bridging Theory and Real Data".
@@ -142,7 +143,7 @@ tags = ["syntax", "code"]
 
 #### Expert panels, hiring committees et sim.
 
-- Jury member for the PhD scholarship selection of the Neuromod Institute, Université Côte d'Azur, 2024. 
+- Jury member for the PhD scholarship selection of the Neuromod Institute, Université Côte d'Azur, 2024.
 - Project reviewer for the *Idées 2024* call of the *Académie d’Excellence Réseaux, Information et Société numérique*  of Université Côte d'Azur, January-February 2024.
 - Member of the ST6 Expert Panel (Computer science and informatics) of the National Science Centre of Poland, 2023.
 - Expert reviewer for the French Agence Nationale de la Recherche (ANR), 2022.
@@ -167,7 +168,7 @@ tags = ["syntax", "code"]
 
 - Member of the Stephan Friedrichs' PhD committee.
   Date of defense: September 11th 2017.
-  Institution: Max Planck Institute for Informatics. 
+  Institution: Max Planck Institute for Informatics.
   Thesis title: *Metastability-Containing Circuits, Parallel Distance Problems, and Terrain Guarding*.
 
 #### Organized Workshops
@@ -193,7 +194,7 @@ Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gual
 
 #### Academic Initiatives
 
-- In 2020, I led the initiative to sign an official agreement between Sharif University of Technology (SUT) and Université Côte d'Azur (UCA) in order to be able to offer a scholarship to selected SUT students for UCA's Ubinet master's program.  
+- In 2020, I led the initiative to sign an official agreement between Sharif University of Technology (SUT) and Université Côte d'Azur (UCA) in order to be able to offer a scholarship to selected SUT students for UCA's Ubinet master's program.
 
 ## Positions
 
