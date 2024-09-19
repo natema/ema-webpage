@@ -13,8 +13,8 @@
 
 
 I am a [CNRS] researcher (HDR) at [Université
-Côte d’Azur][UCA] based in Sophia Antipolis, a member of the [COATI
-Project-Team][COATI] between [INRIA] and [I3S][I3S] and a [3IA Côte d'Azur][3IA] Chair .
+Côte d’Azur][UCA] based in Sophia Antipolis, a [3IA Côte d'Azur][3IA] Chair and a member of the [COATI
+Project-Team][COATI] between [INRIA] and [I3S][I3S].
 
 ~~~
 <div itemscope itemtype="https://schema.org/Person"   style="display: flex; align-items: center;"   ><a itemprop="sameAs" content="https://orcid.org/0000-0002-8755-3892" href="https://orcid.org/0000-0002-8755-3892" target="orcid.widget" rel="me noopener noreferrer" ><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1.5em; float: left;" alt="ORCID iD icon">https://orcid.org/0000-0002-8755-3892</a></div>
