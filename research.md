@@ -19,7 +19,7 @@ tags = ["syntax", "code"]
 
 * [Damien Rivet](), Post-doc (BraInside project), COATI Team, 2022-07 — 2023-06.
 * [Paulo Bruno Serafim](https://paulobruno.github.io/), Research Engineer (BraInside project), COATI Team, 2022-04 — 2022-09.
-* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), I3S Post-doc fellowship, 2019-11 — 2020-10. 
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), I3S Post-doc fellowship, 2019-11 — 2020-10.
 
 ### PhD Students
 
@@ -32,50 +32,50 @@ tags = ["syntax", "code"]
 
 ## Research Bio
 
-### Machine Learning 
+### Machine Learning
 
-Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS]) and on other problems in machine learning ([HID], [CAID], [SCHED]). 
+Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS]) and on other problems in machine learning ([HID], [CAID], [SCHED]).
 
-Starting in 2021, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) [JOSS]. 
+Starting in 2021, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) ([JOSS]).
 
-### Computational Neuroscience 
+### Computational Neuroscience
 
-Since 2017, I've been interested in theoretical and computational neuroscience. 
-I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently, I've been working on providing algorithmic and mathematical tools to investigate how the central nervous system is organized. 
-In that respect, I worked on the problem of network alignment applied to brain atlases ([BrainAlign]) and on a temporal version of the Hyperbolic Random Graph as a null model for fMRI data ([Hyper]). 
+Since 2017, I've been interested in theoretical and computational neuroscience.
+I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently, I've been working on providing algorithmic and mathematical tools to investigate how the central nervous system is organized.
+In that respect, I worked on the problem of network alignment applied to brain atlases ([BrainAlign]) and on a temporal version of the Hyperbolic Random Graph as a null model for fMRI data ([Hyper]).
 I've also worked on the Assembly Calculus, a theoretical framework that explains the emergence of high-level cognition from the low-level behavior of neurons and synapses through an algorithmic formalization of Hebbian learning ([AC]).
 
 ### Theoretical Computer Science and Multi-agent Systems
 
 Originally motivated by an interest in the theory of complex systems, my research has focused on computational dynamics ([CompDyn], [SurvDyn]), i.e., simple distributed
 probabilistic algorithms which allow multi-agent systems to solve global
-coordination tasks. 
+coordination tasks.
 This class of algorithms has been studied extensively from the perspective of
 computability theory. However, due to the lack of mathematical tools to
 rigorously model the behavior of these systems in the short term, efforts to
 explore these dynamics algorithmically succeeded only recently. My main
 contributions in this area have been on the fundamental distributed-computing
 problems of Consensus ([StabCons], [NoisyUnd]), Majority Consensus ([SimpleDyn], [UndDyn], [PhaseTrans]), and Distributed Clustering ([DistCom], [MetaStab], [PPComDet], [FYPComDet]), where I have contributed
-to proving rigorous results on unexpected aspects of the evolution of computational dynamics (see also ([IgnComp], [ConsBroad])). 
-Another important part of my research has been to strive to use the aforementioned mathematical tools to problems in theoretical biology, in particular the 
-study of the collective behaviors of biological systems ([InfoFlow]). 
+to proving rigorous results on unexpected aspects of the evolution of computational dynamics (see also ([IgnComp], [ConsBroad])).
+Another important part of my research has been to strive to use the aforementioned mathematical tools to problems in theoretical biology, in particular the
+study of the collective behaviors of biological systems ([InfoFlow]).
 In this respect, I have worked on the algorithmic analysis of the behavior of organisms such as ant species ([Levy]) and Physarum polycephalum ([DistFlow]).
 
-Besides all that, I investigated some other distributed-computing problems ([RepBins], [MinMsg], [NoisCons], [ParLoad]), 
-enjoyed working on some algorithm engineering projects ([Kadabra]), 
+Besides all that, I investigated some other distributed-computing problems ([RepBins], [MinMsg], [NoisCons], [ParLoad]),
+enjoyed working on some algorithm engineering projects ([Kadabra]),
 and studied the complexity of certain combinatorial puzzles and games ([Candy], [PegS], [CoG]).
 
-## Code 
+## Code
 
 You can find some of my code on [my Github page](https://github.com/natema).
 
 ## Misc
 
-Here's 
-~~~ 
+Here's
+~~~
 <a href="https://genealogy.math.ndsu.nodak.edu/id.php?id=238289">my Mathematics Genealogy Project page</a>.
 ~~~
-My Erdős number is 3, thanks to Giorgio Gambosi. 
+My Erdős number is 3, thanks to Giorgio Gambosi.
 
 
 [AC]: https://hal.archives-ouvertes.fr/hal-03479582/
@@ -83,7 +83,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [CAID]: https://hal.science/hal-04328529
 [Candy]: https://ieeexplore.ieee.org/document/6932866
 [CNRS]: https://www.cnrs.fr
-[COATI]: https://team.inria.fr/coati/team-members 
+[COATI]: https://team.inria.fr/coati/team-members
 [CoG]: https://gitlab.com/steven3k/complexity-of-games
 [CompDyn]: https://tel.archives-ouvertes.fr/tel-02002681
 [ConsBroad]: https://drops.dagstuhl.de/opus/volltexte/2020/11727/
@@ -101,7 +101,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [Kadabra]: https://dl.acm.org/doi/10.1145/3284359
 [Levy]: https://link.springer.com/article/10.1007/s11721-022-00217-w
 [LTH]: https://openreview.net/forum?id=Vjki79-619-
-[MetaStab]: https://ojs.aaai.org//index.php/AAAI/article/view/4560 
+[MetaStab]: https://ojs.aaai.org//index.php/AAAI/article/view/4560
 [MinMsg]: https://link.springer.com/article/10.1007%2Fs00446-018-0330-x
 [NoisCons]: https://link.springer.com/article/10.1007%2Fs00446-018-0335-5
 [NoisyUnd]: https://link.springer.com/chapter/10.1007%2F978-3-030-54921-3_15
@@ -116,5 +116,5 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [SLTH]: https://hal.science/hal-04143024/
 [StabCons]: https://epubs.siam.org/doi/10.1137/1.9781611974331.ch46
 [SurvDyn]: https://dl.acm.org/doi/10.1145/3388392.3388403
-[UCA]: http://univ-cotedazur.fr 
+[UCA]: http://univ-cotedazur.fr
 [UndDyn]: https://epubs.siam.org/doi/10.1137/1.9781611973730.27
