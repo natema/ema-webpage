@@ -98,7 +98,7 @@ tags = ["syntax", "code"]
 
 ### Project participation and affiliation
 
-* Member of the [NeuroMod Institute for Modeling in Neuroscience and Cognition at UCA](https://neuromod.univ-cotedazur.eu/).
+* Member of the [NeuroMod Institute for Modeling in Neuroscience and Cognition at UCA](https://neuromod.univ-cotedazur.eu/). 2024 - present.
 * Member of the "GameTable" COST Action CA22145. 2023 - 2027.
 
 ## Invited Speaker
@@ -154,7 +154,8 @@ tags = ["syntax", "code"]
 
 ### PhD School Member
 
-- External member of [University of Rome Tor Vergata's PhD School in Data Science](https://datasciencephd.uniroma2.it/).
+- Member of the [École Doctorale STIC](https://webusers.i3s.unice.fr/edstic/) (Sciences et Technologies de l'Information et de la Communication) of Université Côte d'Azur, since 2024.
+- External member of [University of Rome Tor Vergata's PhD School in Data Science](https://datasciencephd.uniroma2.it/), since 2023.
 
 #### PhD Thesis Committee
 
@@ -199,6 +200,10 @@ Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gual
 - In 2020, I led the initiative to sign an official agreement between Sharif University of Technology (SUT) and Université Côte d'Azur (UCA) in order to be able to offer a scholarship to selected SUT students for UCA's Ubinet master's program.
 
 ## Positions
+
+### 2024 - 2027
+
+[3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) Chair.
 
 ### 2019 - ...
 
