@@ -13,7 +13,7 @@
 
 
 I am a [CNRS] researcher (HDR) at [Université
-Côte d’Azur][UCA] based in Sophia Antipolis, a [3IA Côte d'Azur][3IA] Chair and a member of the [COATI
+Côte d’Azur][UCA], a [3IA Côte d'Azur][3IA] Chair and a member of the [COATI
 Project-Team][COATI] between [INRIA] and [I3S][I3S].
 
 ~~~
