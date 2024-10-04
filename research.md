@@ -10,8 +10,6 @@ tags = ["syntax", "code"]
 
 * **BioSwarm Project - DGA** *(November 2023 – 2027)*
   Principal investigator together with Olivier Simonin of a 4-year national research project on algorithms for coordination tasks in drone swarms, funded by the DGA (the French Government Defence procurement and technology agency).
-* **BraInside Project - DGA** *(November 2019 – 2023)*
-  Principal investigator together with Laurent Viennot of a 4-year national research project on artificial neural networks, funded by the DGA (the French Government Defence procurement and technology agency).
 
 ## Group members
 
@@ -34,15 +32,15 @@ tags = ["syntax", "code"]
 
 ### Machine Learning
 
-Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS]) and on other problems in machine learning ([HID], [CAID], [SCHED]).
+Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS], [SSLT]) and on other problems in machine learning ([HID], [CAID], [SCHED]).
 
-Starting in 2021, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) ([JOSS]).
+Starting in 2021, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) ([JOSS], [JIE]).
 
 ### Computational Neuroscience
 
 Since 2017, I've been interested in theoretical and computational neuroscience.
 I've been a fellow of the [Brain and Computation Program of the Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/brain2018), and subsequently, I've been working on providing algorithmic and mathematical tools to investigate how the central nervous system is organized.
-In that respect, I worked on the problem of network alignment applied to brain atlases ([BrainAlign]) and on a temporal version of the Hyperbolic Random Graph as a null model for fMRI data ([Hyper]).
+In that respect, I worked on the problem of network alignment applied to brain atlases ([BrainAlign]), on a temporal version of the Hyperbolic Random Graph as a null model for fMRI data ([Hyper]) and on techniques for interpreting fMRI activity ([ShapFMRI]).
 I've also worked on the Assembly Calculus, a theoretical framework that explains the emergence of high-level cognition from the low-level behavior of neurons and synapses through an algorithmic formalization of Hebbian learning ([AC]).
 
 ### Theoretical Computer Science and Multi-agent Systems
@@ -97,6 +95,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [INRIA]: https://www.inria.fr
 [IgnComp]: https://dl.acm.org/doi/10.1145/3087801.3087817
 [InfoFlow]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006195
+[JIE]: https://onlinelibrary.wiley.com/journal/15309290 <!-- TODO -->
 [JOSS]: https://joss.theoj.org/papers/10.21105/joss.05772
 [Kadabra]: https://dl.acm.org/doi/10.1145/3284359
 [Levy]: https://link.springer.com/article/10.1007/s11721-022-00217-w
@@ -112,8 +111,10 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [RepBins]: https://link.springer.com/article/10.1007%2Fs00446-017-0320-4
 [RSS]: https://hal.science/hal-03654720/
 [SCHED]: https://hal.science/hal-04497548
+[ShapFMRI]: https://complexnetworks.org/ <!-- TODO -->
 [SimpleDyn]: https://link.springer.com/article/10.1007%2Fs00446-016-0289-4
 [SLTH]: https://hal.science/hal-04143024/
+[SSLT]: https://openreview.net/forum?id=aBMESB1Ajx <!-- TODO -->
 [StabCons]: https://epubs.siam.org/doi/10.1137/1.9781611974331.ch46
 [SurvDyn]: https://dl.acm.org/doi/10.1145/3388392.3388403
 [UCA]: http://univ-cotedazur.fr
