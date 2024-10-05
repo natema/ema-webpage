@@ -10,6 +10,7 @@ tags = ["syntax", "code"]
 
 ## 2024
 
+* *Trevisan's Contributions to Distributed Computing*, LucaFest at the Simons Institute for the Theory of Computing, Berkeley. [Slides](https://www-sop.inria.fr/members/Emanuele.Natale/data/lucafest24/index.html)
 * *Algorithmic Principles in Neuroscience*, BDA 2024, Nantes. [Slides](https://docs.google.com/presentation/d/1HEcd2plESf0uaZhNuGHHyr59bMoEDyaUy-6tzRODItI/edit?usp=sharing).
 * *On the Random Subset Sum Problem and Artificial Neural Networks*, I3S meeting with the Institut CNRS Sciences Informatiques, I3S. [Slides](https://docs.google.com/presentation/d/1Rmauf9nQhNO6oNGRPctuwnKztBEgVpe2Gv7EglABPS8/edit?usp=sharing)
 * *A journey across distributed computing, neuroscience and machine learning*, HDR defense, INRIA d'Université Côte d'Azur. [Slides](https://docs.google.com/presentation/d/1vm7NOPyUF2L0AgxbslJI-49tRog6DbUdYqF97g0dBPs/edit?usp=sharing).
@@ -18,7 +19,7 @@ tags = ["syntax", "code"]
 
 * *Une implémentation GPU de la méthode de recherche approximative FlyHash*, Conference on Artificial Intelligence for Defense, Rennes. [PDF](/static/docs/talks-2023/CAID.pdf).
 * *Algorithms for the network alignment problem*, Journées Julia et Optimisation at CNAM, Paris. [Slides](https://slides.com/natema/deck-33ee3f).
-* *BraInside - Algorithmes pour la Simplification des Réseaux de Neurones*, Journée MinArm-INRIA. [PDF](/static/docs/talks-2023/MinArm-INRIA-Paris-2023.pdf). 
+* *BraInside - Algorithmes pour la Simplification des Réseaux de Neurones*, Journée MinArm-INRIA. [PDF](/static/docs/talks-2023/MinArm-INRIA-Paris-2023.pdf).
 * *On the Random Subset Sum Problem and Neural Networks*, In'Tro seminar May 2023, INRIA d'Université Côte d'Azur. [Slides](https://slides.com/natema/intro-2023).
 * *On the Random Subset Sum Problem and Neural Networks*, Seminar at GSSI, L'Aquila (IT). [Slides](https://slides.com/natema/gssi-natale-2023).
 * *On the Random Subset Sum Problem and Neural Networks*, Meeting with the HCERES evaluation committee, Université Côte d'Azur. [Slides](https://slides.com/natema/hw-ann-via-rss-25824a/fullscreen?token=HXS0MaV2).
