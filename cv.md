@@ -193,7 +193,7 @@ Journal reviews for Distributed Computing, PLOS One, JCSS, Computer Networks, Ph
 
 #### Projects for Popularizing Science
 
-Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gualà](http://www.mat.uniroma2.it/~guala/), we created and currently manage the [Complexity of Games Compendium](https://www.isnphard.com/).
+Together with [Stefano Leucci](https://www.stefanoleucci.com/) and [Luciano Gualà](http://www.mat.uniroma2.it/~guala/), I created the [Complexity of Games Compendium](https://www.isnphard.com/).
 
 #### Academic Initiatives
 
