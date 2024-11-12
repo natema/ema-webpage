@@ -95,7 +95,7 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [INRIA]: https://www.inria.fr
 [IgnComp]: https://dl.acm.org/doi/10.1145/3087801.3087817
 [InfoFlow]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006195
-[JIE]: https://cv.hal.science/emanuele-natale
+[JIE]: https://onlinelibrary.wiley.com/doi/10.1111/jiec.13582
 [JOSS]: https://joss.theoj.org/papers/10.21105/joss.05772
 [Kadabra]: https://dl.acm.org/doi/10.1145/3284359
 [Levy]: https://link.springer.com/article/10.1007/s11721-022-00217-w
@@ -111,10 +111,10 @@ My Erdős number is 3, thanks to Giorgio Gambosi.
 [RepBins]: https://link.springer.com/article/10.1007%2Fs00446-017-0320-4
 [RSS]: https://hal.science/hal-03654720/
 [SCHED]: https://hal.science/hal-04497548
-[ShapFMRI]: https://cv.hal.science/emanuele-natale
+[ShapFMRI]: https://hal.science/hal-04596845v1
 [SimpleDyn]: https://link.springer.com/article/10.1007%2Fs00446-016-0289-4
 [SLTH]: https://hal.science/hal-04143024/
-[SSLT]: https://cv.hal.science/emanuele-natale
+[SSLT]: https://hal.science/hal-04741369v2
 [StabCons]: https://epubs.siam.org/doi/10.1137/1.9781611974331.ch46
 [SurvDyn]: https://dl.acm.org/doi/10.1145/3388392.3388403
 [UCA]: http://univ-cotedazur.fr
