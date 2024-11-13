@@ -27,7 +27,7 @@ tags = ["syntax", "code"]
 ### Interns and undergraduate students
 
 * Aakash Kumar (IISER Kolkata), remote MSc thesis supervision. 2024-08 — 2025-05. Project: "Phase transitions in Neural Networks".
-* Pierre Pereira, INRIA, pre-doctoral student, 2024-05 - 2024-08 (expected).
+* Pierre Pereira, INRIA, pre-doctoral student, 2024-05 - 2024-08.
 * Maël Clergue (ENS Lyon), intern in the COATI Team. 2023-06 — 2023-08. Project: "Scientific Machine Learning for World Dynamics Modeling".
 * Aurora Rossi (Verona University, MSc student), intern in the COATI Team (also Erasmus scholarship). 2022-02 — 2022-07. Project: "Temporal Brain Networks: bridging Theory and Real Data".
 * Cyprien Michel-Deletie (ENS Lyon, ENS student), intern in the COATI Team, I3S Lab. Summer 2021. Project: "Null Processes for Computational Neuroscience".
