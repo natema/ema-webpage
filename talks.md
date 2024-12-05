@@ -10,6 +10,7 @@ tags = ["syntax", "code"]
 
 ## 2024
 
+* *Dynamics and Community Structure in Networks*, Computational Aspects of Complex Networks 2024, University of Rome Tor Vergata. [Slides](/static/docs/talks-2024/2024-12_cacn_tor_vergata	.pdf)
 * *Trevisan's Contributions to Distributed Computing*, LucaFest at the Simons Institute for the Theory of Computing, Berkeley. [Slides](/static/docs/talks-2024/lucafest_simons.pdf)
 * *Algorithmic Principles in Neuroscience*, BDA 2024, Nantes. [Slides](https://docs.google.com/presentation/d/1HEcd2plESf0uaZhNuGHHyr59bMoEDyaUy-6tzRODItI/edit?usp=sharing).
 * *On the Random Subset Sum Problem and Artificial Neural Networks*, I3S meeting with the Institut CNRS Sciences Informatiques, I3S. [Slides](https://docs.google.com/presentation/d/1Rmauf9nQhNO6oNGRPctuwnKztBEgVpe2Gv7EglABPS8/edit?usp=sharing)
