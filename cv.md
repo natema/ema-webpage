@@ -103,6 +103,7 @@ tags = ["syntax", "code"]
 
 ## Invited Speaker
 
+* Workshop on Computational Aspects of Complex Networks 2024, University of Rome Tor Vergata (Italy).
 * 10th Workshop on Biological Distributed Algorithms (BDA 2024), Nantes (France).
 * 20th Italian Conference on Theoretical Computer Science (ICTCS 2019), Como (Italy).
 * 18th Italian Conference on Theoretical Computer Science (ICTCS 2017), Naples (Italy).
