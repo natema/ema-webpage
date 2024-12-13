@@ -21,12 +21,12 @@ tags = ["syntax", "code"]
 
 ### PhD Students
 
-* [Pierre Pereira](https://pierrot-lc.github.io/website/), INRIA, co-supervised with Frederic Giroire, 2024-10 - 2027-09 (expected).
-* [Niccolò D'Archivio](), INRIA, co-supervised with Frederic Giroire, 2024-04 — 2027-03 (expected).
-* [Davide Ferre](), UCA, co-supervised with Frederic Giroire, 2024-01 — 2026-12 (expected).
-* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/), INRIA UCA, 2020-10 — 2023-09.
-* [Francesco D'Amore](https://fdamore95.github.io/), INRIA UCA, co-supervised with Nicolas Nisse, 2019-10 — 2022-10.
-* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/), Gran Sasso Science Institute, co-supervised with G. D'Angelo and L. Becchetti, until 2019-12.
+* [Pierre Pereira](https://pierrot-lc.github.io/website/) (UCA), thesis director, 2024-10 - 2027-09 (expected).
+* [Niccolò D'Archivio](https://sites.google.com/view/niccolo-darchivio/home) (UCA), thesis director, 2024-04 — 2027-03 (expected).
+* [Davide Ferre]() (UCA), thesis co-director, 2024-01 — 2026-12 (expected).
+* [Arthur Carvalho Walraven Da Cunha](https://arthurwalraven.github.io/) (UCA), thesis director, 2020-10 — 2023-09.
+* [Francesco D'Amore](https://fdamore95.github.io/) (UCA), *co-encadrant* because prior to HDR, 2019-10 — 2022-10.
+* [Emilio Cruciani](https://sites.google.com/view/emiliocruciani/) (Gran Sasso Science Institute), co-supervisor, until 2016-10 — 2019-12.
 
 ## Research Bio
 
