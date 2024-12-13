@@ -126,20 +126,23 @@ tags = ["syntax", "code"]
 
 #### Conference Service
 
-- Area chair of [UAI'25](https://www.auai.org/uai2025/),
-- Program committee member (PC) of [AAAI'25](https://aaai.org/Conferences/AAAI-25/),
-- Conference reviewer (CR) for [NeurIPS'24](https://neurips.cc/Conferences/2024)
+AC = Area Chair, PC = Program Committee, CR = Conference Reviewer.
+
+- AC for [UAI'25](https://www.auai.org/uai2025/),
+- CR for [ICML'25](https://icml.cc/Conferences/2025),
+- PC for [AAAI'25](https://aaai.org/Conferences/AAAI-25/),
+- CR for [NeurIPS'24](https://neurips.cc/Conferences/2024)
 - CR for [ICML'24](https://icml.cc/Conferences/2024),
-- PC of [AAAI'24](https://aaai.org/Conferences/AAAI-24/),
+- PC for [AAAI'24](https://aaai.org/Conferences/AAAI-24/),
 - CR for [NeurIPS'23](https://neurips.cc/Conferences/2023) (reduced load).
-- PC of [UAI'23](https://www.auai.org/uai2023/) (identified as Top Reviewer by the PC chairs),
-- PC of [AAAI'23](https://aaai.org/Conferences/AAAI-23/),
-- PC of [AAAI'22](https://aaai.org/Conferences/AAAI-22/),
-- PC of [EURO-PAR'21](https://2021.euro-par.org/)
-- PC of [SEA'21](https://sea2021.i3s.unice.fr/)
-- PC of [AAMAS'21](https://aamas2021.soton.ac.uk/),
-- PC of [IJCAI-PRICAI'20](https://ijcai20.org/),
-- PC of [SPAA'19](https://spaa.acm.org/2019/call_for_papers.html).
+- PC for [UAI'23](https://www.auai.org/uai2023/) (identified as Top Reviewer by the PC chairs),
+- PC for [AAAI'23](https://aaai.org/Conferences/AAAI-23/),
+- PC for [AAAI'22](https://aaai.org/Conferences/AAAI-22/),
+- PC for [EURO-PAR'21](https://2021.euro-par.org/)
+- PC for [SEA'21](https://sea2021.i3s.unice.fr/)
+- PC for [AAMAS'21](https://aamas2021.soton.ac.uk/),
+- PC for [IJCAI-PRICAI'20](https://ijcai20.org/),
+- PC for [SPAA'19](https://spaa.acm.org/2019/call_for_papers.html).
 
 #### Expert panels, hiring committees et sim.
 
