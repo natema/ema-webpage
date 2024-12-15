@@ -124,7 +124,7 @@ tags = ["syntax", "code"]
 
 - Steering committee member of the [Symposium on Experimental Algorithms](https://en.wikipedia.org/wiki/Symposium_on_Experimental_Algorithms), 2022-2024.
 
-#### Conference Service
+#### Conference and Reviewer Service
 
 AC = Area Chair, PC = Program Committee, CR = Conference Reviewer.
 
@@ -134,8 +134,9 @@ AC = Area Chair, PC = Program Committee, CR = Conference Reviewer.
 - CR for [NeurIPS'24](https://neurips.cc/Conferences/2024)
 - CR for [ICML'24](https://icml.cc/Conferences/2024),
 - PC for [AAAI'24](https://aaai.org/Conferences/AAAI-24/),
-- CR for [NeurIPS'23](https://neurips.cc/Conferences/2023) (reduced load).
+- CR for [NeurIPS'23](https://neurips.cc/Conferences/2023),
 - PC for [UAI'23](https://www.auai.org/uai2023/) (identified as Top Reviewer by the PC chairs),
+- CR for [JuliaCon'23](https://juliacon.org/2023/) (11 reviews),
 - PC for [AAAI'23](https://aaai.org/Conferences/AAAI-23/),
 - PC for [AAAI'22](https://aaai.org/Conferences/AAAI-22/),
 - PC for [EURO-PAR'21](https://2021.euro-par.org/)
@@ -143,6 +144,9 @@ AC = Area Chair, PC = Program Committee, CR = Conference Reviewer.
 - PC for [AAMAS'21](https://aamas2021.soton.ac.uk/),
 - PC for [IJCAI-PRICAI'20](https://ijcai20.org/),
 - PC for [SPAA'19](https://spaa.acm.org/2019/call_for_papers.html).
+
+I have also served as a reviewer for the conferences STOC, SODA, SPAA, PODC, ICALP, CIAC, DISC, EURO-PAR, ICDCS, IPDPS, OPODIS, RS&A, SEA and SIROCCO,
+and for the journals Distributed Computing, PLOS One, JCSS, Computer Networks, Physics Letter A, ACM Transactions on Parallel Computing.
 
 #### Expert panels, hiring committees et sim.
 
@@ -181,15 +185,6 @@ AC = Area Chair, PC = Program Committee, CR = Conference Reviewer.
 **Spring 2018** - I've been organizing the Brain-related Computing Interest Group's meetings in the The Brain and Computation Program of the [Simons Institute][SIMONS].
 
 **November 2015** - With Luca Becchetti, Andrea Clementi and Francesco Pasquale, I organized the second edition of the workshop Kolmogorov Meets Turing.
-
-### Reviewer Activity
-
-Member of the reviewer panel for [JuliaCon'23](https://juliacon.org/2023/) (11 reviews).
-
-Conference reviews for
-AAAI, AAMAS, CIAC, DISC, EURO-PAR, ICALP, ICDCS, IJCAI-PRICAI, IPDPS, OPODIS, PODC, RS&A, SEA, SIROCCO, SODA, SPAA, STOC, UAI.
-
-Journal reviews for Distributed Computing, PLOS One, JCSS, Computer Networks, Physics Letter A, ACM Transactions on Parallel Computing.
 
 ### Other Activities
 
