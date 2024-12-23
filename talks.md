@@ -112,7 +112,7 @@ tags = ["syntax", "code"]
 
 ## A.A. 2023/2024
 
-* [Algorithmic Principles in Neuroscience](), at [Gran Sasso Science Institute](https://gssi.it/).
+* [Algorithmic Principles in Neuroscience](/teaching/alpine24/), at [Gran Sasso Science Institute](https://gssi.it/).
 
 ## A.A. 2021/2022
 

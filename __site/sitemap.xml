@@ -39,7 +39,13 @@
 </url>
 <url>
     <loc>https://natema.github.io/talks/index.html</loc>
-    <lastmod>2024-12-05</lastmod>
+    <lastmod>2024-12-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://natema.github.io/teaching/alpine24/index.html</loc>
+    <lastmod>2024-12-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
