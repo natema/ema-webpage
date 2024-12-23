@@ -1,8 +1,11 @@
 # Algorithmic Principles in Neuroscience
 
 Teacher: [Emanuele Natale](https://www.i3s.univ-cotedazur.fr/~natale)
+
 Dates: 8-10 July 2024
+
 Institution: Gran Sasso Science Institute, L'Aquila, Italy
+
 Course type: PhD course
 
 ## Course description
