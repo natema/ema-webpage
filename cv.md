@@ -40,10 +40,6 @@ tags = ["syntax", "code"]
 * Giacomo Scornavacca (Università degli Studi dell'Aquila, PhD student), intern at Max-Planck Institute for Informatics, Saarbrücken, in Summer 2017.
 * Niko Kleer (HTW Saar, BSc student), at Max-Planck Institute for Informatics, Saarbrücken. Thesis: Self-Stabilizing Broadcast with 1 Bit. Defended in 2017.
 
-# Patents
-
-- Arthur Carvalho Walraven Da Cunha, Emanuele Natale, Laurent Viennot. _Résistance équivalente modulable à partir de résistances imprécises_. Patent deposit n°FR2210217, INRIA, 5 octobre 2022.
-
 ## Awards, Grants etc.
 
 ### 2019
