@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"grammarly.selectors": [
+			{
+				"language": "markdown",
+				"scheme": "file"
+			}
+		],
+		"cSpell.words": [
+			"polycephalum"
+		]
+	}
+}

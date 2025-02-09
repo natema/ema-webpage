@@ -1,0 +1,12 @@
+We present analytical results regarding some simple randomized protocols,
+called dynamics, for solving fundamental distributed consensus problems,
+together with examples on how to use them to build lightweight
+algorithms for other important distributed problems.
+More specifically, we provide an overview of the theory regarding several
+dynamics such as the 3-Majority, the Averaging and the Undecided-State ones,
+and we show how to use them to solve plurality consensus, distributed
+clustering, clock synchronization and information spreading. 
+Motivated by applications to systems whose complexity is in-between biological
+and human-made ones, we focus mainly on unstructured and random interaction
+models, and we also deal with scenarios in which the communication is affected
+by noise or when a self-stabilizing protocol is required.
