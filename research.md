@@ -34,7 +34,7 @@ tags = ["syntax", "code"]
 
 Starting in 2019, I've been working on the theory of sparsification of artificial neural networks, in particular in connection to the Lottery Ticket Hypothesis ([LTH], [SLTH], [RSS], [SSLT]) and on other problems in machine learning ([HID], [CAID], [SCHED]).
 
-Starting in 2021, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) ([JOSS], [JIE]).
+From 2021 to 2024, I've also been contributing to [integrated assessment modeling software in Julia](https://github.com/worlddynamics) ([JOSS], [JIE]).
 
 ### Computational Neuroscience
 
