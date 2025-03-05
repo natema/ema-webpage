@@ -32,9 +32,10 @@ For more information (projects, academic service etc.), see my [CV](/cv/).
 I'm interested in machine learning and neuroscience, with a focus on theoretical aspects of multi-agent systems and artificial neural networks.
 I give a quick overview of my research [here](/research/#research_bio).
 
+<!--
 ### News
+ -->
 
-I'm [looking for postdocs](https://www.dropbox.com/scl/fi/pq8ui5ha0tekyhizqqzne/postdoc_2025_call.pdf?rlkey=ndv1d1fzfjc1d5bn1jxobprka&dl=0). If you're interested, please contact me.
 
 
 [3IA]: https://3ia.univ-cotedazur.eu/
