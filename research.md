@@ -9,7 +9,7 @@ tags = ["syntax", "code"]
 ## Recent projects
 
 * **BioSwarm Project - DGA** *(November 2023 – 2027)*
-  Principal investigator together with Olivier Simonin of a 4-year national research project on algorithms for coordination tasks in drone swarms, funded by the DGA (the French Government Defence procurement and technology agency).
+  Principal investigator of a 4-year national research project on algorithms for coordination tasks in drone swarms, funded by the DGA (the French Government Defence procurement and technology agency).
 
 ## Group members
 
