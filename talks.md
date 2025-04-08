@@ -110,6 +110,10 @@ tags = ["syntax", "code"]
 
 # Teaching
 
+## A.A. 2024/2025
+
+* Parallel Machine Learning in Julia, at Università di Roma "Tor Vergata".
+
 ## A.A. 2023/2024
 
 * [Algorithmic Principles in Neuroscience](/teaching/alpine24/), at [Gran Sasso Science Institute](https://gssi.it/).
