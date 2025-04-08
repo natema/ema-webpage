@@ -26,6 +26,7 @@ tags = ["syntax", "code"]
 
 ### Interns and undergraduate students
 
+* Matteo Stromieri (Università di Roma Tor Vergata), Math-Vives PEPR internship. 2025-04 — 2025-09. Project: "Mathematical Approaches to Comparative Evolutionary Neuroscience".
 * Aakash Kumar (IISER Kolkata), remote MSc thesis supervision. 2024-08 — 2025-05. Project: "Phase transitions in Neural Networks".
 * Pierre Pereira, INRIA, pre-doctoral student, 2024-05 - 2024-08.
 * Maël Clergue (ENS Lyon), intern in the COATI Team. 2023-06 — 2023-08. Project: "Scientific Machine Learning for World Dynamics Modeling".
